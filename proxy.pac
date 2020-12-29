@@ -1,11 +1,11 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Tue, 29 Dec 2020 03:39:08 +0000
- * GFWList Last-Modified: 2020-12-29 03:39:08.557949909 +0000 UTC m=+0.034547610
+ * Generated: Tue, 29 Dec 2020 03:57:37 +0000
+ * GFWList Last-Modified: 2020-12-29 03:57:37.523610438 +0000 UTC m=+0.049460301
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 127.0.0.1:1089';
 var rules = [
     [
         [],
