@@ -21,6 +21,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-python@v1
+    - uses: BSFishy/pip-action@v1
+      with:
+        packages: |
+          genpac
 
     - name: Setup Go 1.x.y
       uses: actions/setup-go@v2
@@ -46,8 +51,7 @@ jobs:
      
     - name: Build proxy.pac file
       run: |
-        chmod +x genpac
-        ./genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > proxy.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > proxy.pac
           
     - name: Push proxy.pac file
       run: |
