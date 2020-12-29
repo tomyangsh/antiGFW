@@ -1,0 +1,61 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Build proxy.pac
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  #workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup Go 1.x.y
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.15
+
+      - name: Set $GOPATH and more variables
+        run: |
+          echo "REPO_URL=github.com/${{ github.repository }}" >> $GITHUB_ENV
+          echo "GOPATH=$(dirname $GITHUB_WORKSPACE)" >> $GITHUB_ENV
+          echo "$(dirname $GITHUB_WORKSPACE)/bin" >> $GITHUB_PATH
+          echo "REPO2_URL=github.com/v2fly/domain-list-community" >> $GITHUB_ENV
+        shell: bash
+        
+      - name: Go get project code
+        run: |
+          go get -v -insecure $REPO_URL
+          go get -v -insecure $REPO2_URL
+          
+      - name: Build dlc.dat file
+        run: |
+          antiGFW --datapath=${{ env.GOPATH }}/src/${{ env.REPO_URL }}/data 
+     
+      - name: Build proxy.pac file
+        run: |
+          chmod +x genpac
+          ./genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > proxy.pac
+          
+      - name: Push proxy.pac file
+        run: |
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git add proxy.pac
+          git commit -m "update proxy.pac"
+          git push
+      
+
+      
