@@ -1,4 +1,4 @@
-module github.com/v2fly/domain-list-community
+module github.com/tomyang001/antiGFW
 
 go 1.15
 
