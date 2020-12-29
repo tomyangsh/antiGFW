@@ -4,6 +4,8 @@ name: Build proxy.pac
 
 # Controls when the action will run. 
 on:
+  schedule:    
+    - cron: "0 0 * * 0"
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
@@ -51,7 +53,7 @@ jobs:
      
     - name: Build proxy.pac file
       run: |
-        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > proxy.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089" > proxy.pac
           
     - name: Push proxy.pac file
       run: |
