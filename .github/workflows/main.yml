@@ -38,11 +38,11 @@ jobs:
     - name: Go get project code
       run: |
         go get -v -insecure $REPO_URL
-        go get -v -insecure $REPO2_URL
           
     - name: Build dlc.dat file
       run: |
-        antiGFW --datapath=${{ env.GOPATH }}/src/${{ env.REPO_URL }}/data 
+        git clone https://github.com/v2fly/domain-list-community.git
+        antiGFW --datapath=domain-list-community/data
      
     - name: Build proxy.pac file
       run: |
