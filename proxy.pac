@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Tue, 29 Dec 2020 03:57:37 +0000
- * GFWList Last-Modified: 2020-12-29 03:57:37.523610438 +0000 UTC m=+0.049460301
+ * Generated: Tue, 29 Dec 2020 18:11:59 +0000
+ * GFWList Last-Modified: 2020-12-29 18:11:59.204361836 +0000 UTC m=+0.044301293
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -8329,6 +8329,7 @@ var rules = [
             "rsc.org",
             "rsf.org",
             "rsg.sc",
+            "rsshub.app",
             "rstatic.net",
             "rt.com",
             "rthk.hk",
@@ -8698,6 +8699,7 @@ var rules = [
             "sorcerersarena.com",
             "soso7778.com",
             "soundcloud.com",
+            "soundofhope.kr",
             "soundofhope.org",
             "sourceforge.com",
             "sourceforge.net",
