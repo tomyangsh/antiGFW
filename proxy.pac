@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Tue, 29 Dec 2020 18:11:59 +0000
- * GFWList Last-Modified: 2020-12-29 18:11:59.204361836 +0000 UTC m=+0.044301293
+ * Generated: Wed, 30 Dec 2020 21:57:56 +0000
+ * GFWList Last-Modified: 2020-12-30 21:57:56.343157717 +0000 UTC m=+0.032547786
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2433,6 +2433,7 @@ var rules = [
             "cdn-terapeak.com",
             "cdninstagram.com",
             "cdnjs.com",
+            "cdnlab.live",
             "cdnpure.com",
             "cebay.com",
             "celebgramme.com",
@@ -5841,6 +5842,7 @@ var rules = [
             "ixquick.com",
             "iyoowi.com",
             "j2objc.org",
+            "jable.tv",
             "jamanetwork.com",
             "japan-whores.com",
             "japanesebeauties.net",
@@ -5852,6 +5854,7 @@ var rules = [
             "java.com",
             "java.net",
             "javbus.com",
+            "javbus22.com",
             "javcc.cc",
             "javcc.com",
             "javdoe.com",
@@ -7533,6 +7536,7 @@ var rules = [
             "onedrive.org",
             "onefifteen.net",
             "onefifteen.org",
+            "onejav.com",
             "onenote.com",
             "onenote.net",
             "onestore.ms",
