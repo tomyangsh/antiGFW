@@ -25,14 +25,14 @@
 
 执行
 
-    bash -c "$(wget -O - https://github.com/tomyang001/antiGFW/raw/master/trojan-install.sh)"
+    bash -c "$(wget -O - https://github.com/tomyangsh/antiGFW/raw/master/trojan-install.sh)"
 
 或
 
-    bash -c "$(curl -sL https://github.com/tomyang001/antiGFW/raw/master/trojan-install.sh)"
+    bash -c "$(curl -sL https://github.com/tomyangsh/antiGFW/raw/master/trojan-install.sh)"
 
 按提示输入之前创建的二级域名，如 dontyoufxxkwithme.xxxxx.tk 并输入密码
-执行完成后会有提示服务是否成功运行（如果是Debian 9，需要[手动开启BBR](https://www.mf8.biz/debian9-bbr/)），然后便可Ctrl+D退出ssh
+执行完成后会有提示服务是否成功运行（如果是Debian 9，需要 [手动开启BBR](https://www.mf8.biz/debian9-bbr/)），然后便可Ctrl+D退出ssh
 
 至此 vps上直连的trojan和走cdn的trojan-go都已部署完成
 
@@ -56,7 +56,7 @@
 
 关于路由规则，可以自己研究路由规则，或使用下方pac自动配置文件，只要确保socks5端口是1089即可
 
-    https://github.com/tomyang001/antiGFW/raw/master/proxy.pac
+    https://github.com/tomyangsh/antiGFW/raw/master/proxy.pac
 
 在 Windows 系统中，通过「Internet选项->连接->局域网设置-> 使用自动配置脚本」可以找到配置处，下方的地址栏填写 PAC 文件地址
 Chrome 中可以在「chrome://settings/->显示高级设置->更改代理服务器设置」中找到 PAC 填写地址。

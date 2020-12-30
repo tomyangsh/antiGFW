@@ -1,4 +1,4 @@
-module github.com/tomyang001/antiGFW
+module github.com/tomyangsh/antiGFW
 
 go 1.15
 
