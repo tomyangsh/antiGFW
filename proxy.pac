@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Thu, 31 Dec 2020 12:16:38 +0000
- * GFWList Last-Modified: 2020-12-31 12:16:38.19059159 +0000 UTC m=+0.032822055
+ * Generated: Fri, 01 Jan 2021 11:42:29 +0000
+ * GFWList Last-Modified: 2021-01-01 11:42:29.362489194 +0000 UTC m=+0.047923325
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -595,6 +595,7 @@ var rules = [
             "appbridge.it",
             "appcenter.ms",
             "appcloud.com",
+            "appdomain.cloud",
             "appdynamics.co.uk",
             "appdynamics.com",
             "appdynamics.de",
