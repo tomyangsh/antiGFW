@@ -1,6 +1,6 @@
 # 搭梯教程
 
-需要一台服务器 可以上vultr买日本$5的，如果vultr上不去，/etc/hosts 里加一行：
+需要一台服务器 可以上vultr买日本$5的，如果vultr上不去，在 hosts 文件里加一行：
 
     1.1.1.1 www.vultr.com
 
@@ -54,7 +54,7 @@
 1. 主机填vps的ip，端口443，类型选Trojan，password先之前创建的密码，SNI填之前创建的二级域名，如 dontyoufxxkwithme.xxxxx.tk ，勾选下方Ignore Certificate和Ignore Host，ok确认
 2. 主机填域名，端口8443，类型选Trojan-Go，password先之前创建的密码，SNI填域名，勾选Mux，Type选ws，Host填域名，Path填`/alonglonglongwebsocketpath`，ok确认
 
-关于路由规则，可以自己研究路由规则，或使用下方pac自动配置文件，只要确保socks5端口是1089即可
+关于路由规则，可以自己研究路由规则，或使用下方pac自动配置文件，只要确保socks5端口是1089即可。设置前先在 hosts 文件中添加一行 `199.232.36.133 raw.githubusercontent.com` 以防DNS污染。
 
     https://github.com/tomyangsh/antiGFW/raw/master/proxy.pac
 
