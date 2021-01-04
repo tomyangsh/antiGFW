@@ -53,7 +53,7 @@ jobs:
      
     - name: Build proxy.pac file
       run: |
-        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089" > proxy.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS 127.0.0.1:1089" > proxy.pac
           
     - name: Push proxy.pac file
       run: |
