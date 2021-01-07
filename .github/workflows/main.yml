@@ -6,11 +6,7 @@ name: Build proxy.pac
 on:
   schedule:    
     - cron: "0 0 * * 0"
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -53,8 +49,9 @@ jobs:
      
     - name: Build proxy.pac file
       run: |
-        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089" > proxy.pac
-          
+        git clone https://github.com/breakwa11/GFWList2PAC.git
+        python2 GFWList2PAC/main.py -i gfwlist.txt -f proxy.pac -p "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089"
+
     - name: Push proxy.pac file
       run: |
         git config --local user.name "actions"
