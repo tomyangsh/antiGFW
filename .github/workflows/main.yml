@@ -6,7 +6,7 @@ name: Build proxy.pac
 on:
   schedule:    
     - cron: "0 0 * * 0"
-
+  
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -19,11 +19,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-python@v1
-    - uses: BSFishy/pip-action@v1
+    - uses: actions/setup-python@v2
       with:
-        packages: |
-          genpac
+        python-version: '3.x'
 
     - name: Setup Go 1.x.y
       uses: actions/setup-go@v2
@@ -49,8 +47,8 @@ jobs:
      
     - name: Build proxy.pac file
       run: |
-        git clone https://github.com/breakwa11/GFWList2PAC.git
-        python2 GFWList2PAC/main.py -i gfwlist.txt -f proxy.pac -p "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089"
+        python3 -m pip install -U https://github.com/tomyangsh/genpac/archive/fix.zip
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089" > proxy.pac
 
     - name: Push proxy.pac file
       run: |
