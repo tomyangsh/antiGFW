@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 17 Jan 2021 00:45:23 +0000
- * GFWList Last-Modified: 2021-01-17 00:45:21.083916918 +0000 UTC m=+0.038459152
+ * Generated: Sun, 24 Jan 2021 00:46:00 +0000
+ * GFWList Last-Modified: 2021-01-24 00:45:58.052035075 +0000 UTC m=+0.033529947
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2102,6 +2102,7 @@ var rules = [
             "botstop.com",
             "bowenpress.com",
             "bowsersinsidestory.com",
+            "boxofficemojo.com",
             "boxun.com",
             "braeburncapital.com",
             "braintreegateway.com",
@@ -6474,6 +6475,7 @@ var rules = [
             "metartnetwork.com",
             "metcams.com",
             "metro.co.uk",
+            "mewe.com",
             "mfg-inspector.com",
             "mgo-images.com",
             "mgo.com",
@@ -8869,6 +8871,7 @@ var rules = [
             "starbucks.de",
             "starbucks.fr",
             "starbucks.ie",
+            "starbucksreserve.com",
             "starcraft.com",
             "starcraft2.com",
             "starfox.com",
@@ -10116,6 +10119,7 @@ var rules = [
             "webrtc.org",
             "webtype.com",
             "weinvoiceit.com",
+            "weiyuksj.com",
             "welcometobestbuy.ca",
             "weltweitwachsen.de",
             "wenzhao.ca",
