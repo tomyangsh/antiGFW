@@ -36,7 +36,7 @@
 
 至此 vps上直连的trojan和走cdn的trojan-go都已部署完成
 
-使用 [此工具](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.6/CloudflareST_windows_amd64.zip) 找出最快的cf节点，在 C:\Windows\System32\drivers\etc\hosts 给自己的域名加一行，例如：
+使用 [此工具](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.8/CloudflareST_windows_amd64.zip) 找出最快的cf节点，在 C:\Windows\System32\drivers\etc\hosts 给自己的域名加一行，例如：
 
     104.23.96.150 dontyoufxxkwithme.xxxxx.tk
 
