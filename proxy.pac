@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 07 Mar 2021 00:15:59 +0000
- * GFWList Last-Modified: 2021-03-07 00:15:57.377083468 +0000 UTC m=+0.068731595
+ * Generated: Sun, 14 Mar 2021 00:16:09 +0000
+ * GFWList Last-Modified: 2021-03-14 00:16:07.4565176 +0000 UTC m=+0.028519055
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -3163,6 +3163,7 @@ var rules = [
             "dmm-extension.com",
             "dmm.co.jp",
             "dmm.com",
+            "dmmapis.com",
             "dnai.in",
             "dnaindia.com",
             "dnaspaces.io",
@@ -8449,8 +8450,10 @@ var rules = [
             "pwnedpasswords.com",
             "pximg.net",
             "pxt.io",
+            "pycon.org",
             "pyhapp.com",
             "pypa.io",
+            "pypi.io",
             "pypi.org",
             "pypl.com",
             "pypl.info",
