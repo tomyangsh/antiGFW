@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 14 Mar 2021 00:16:09 +0000
- * GFWList Last-Modified: 2021-03-14 00:16:07.4565176 +0000 UTC m=+0.028519055
+ * Generated: Sun, 21 Mar 2021 00:16:36 +0000
+ * GFWList Last-Modified: 2021-03-21 00:16:33.99287804 +0000 UTC m=+0.045462762
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -3178,6 +3178,7 @@ var rules = [
             "docs.com",
             "docs.rs",
             "documentforce.com",
+            "dogatch.jp",
             "dogecoin.com",
             "doi.info",
             "doi.org",
@@ -4965,6 +4966,7 @@ var rules = [
             "gopivotal.com",
             "gopivotal.net",
             "gordonmoore.com",
+            "gorin.jp",
             "gosq.co",
             "gosq.com",
             "gostorego.com",
@@ -6230,11 +6232,19 @@ var rules = [
             "liketwice.com",
             "limelight.com",
             "lin.ee",
+            "line-apps-beta.com",
             "line-apps.com",
+            "line-beta.me",
             "line-cdn.net",
             "line-scdn.net",
             "line.me",
             "linearcollider.org",
+            "linecorp.com",
+            "linefriends.com",
+            "linefriends.com.tw",
+            "linegame.jp",
+            "linemobile.com",
+            "linetv.tw",
             "linguee.com",
             "linkedin.com",
             "linotype.com",
@@ -8799,6 +8809,7 @@ var rules = [
             "scp-wiki.net",
             "scpdb.org",
             "scpwiki.com",
+            "screens-lab.jp",
             "screenwisetrends.com",
             "screenwisetrendspanel.com",
             "sdcountybmw.com",
@@ -9690,6 +9701,8 @@ var rules = [
             "tvbeventpower.com.hk",
             "tvbusa.com",
             "tvbweekly.com",
+            "tver.co.jp",
+            "tver.jp",
             "tvmedia.net.au",
             "tvmost.com.hk",
             "tvpromise.com",
@@ -10550,6 +10563,7 @@ var rules = [
             "webofscience.com",
             "webpkgcache.com",
             "webrtc.org",
+            "webtoons.com",
             "webtype.com",
             "weeklytimesnow.com.au",
             "weinvoiceit.com",
