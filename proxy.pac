@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 21 Mar 2021 00:16:36 +0000
- * GFWList Last-Modified: 2021-03-21 00:16:33.99287804 +0000 UTC m=+0.045462762
+ * Generated: Sun, 28 Mar 2021 00:35:47 +0000
+ * GFWList Last-Modified: 2021-03-28 00:35:44.642445485 +0000 UTC m=+0.035960433
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1161,7 +1161,9 @@ var rules = [
             "bazel.build",
             "bbc.co.uk",
             "bbc.com",
+            "bbc.net.uk",
             "bbci.co.uk",
+            "bbcmedia.co.uk",
             "bbcverticals.com",
             "bbestmall.com",
             "bbg.gov",
@@ -1506,6 +1508,7 @@ var rules = [
             "bgov.com",
             "bgr.in",
             "bidbay.com",
+            "bidi.net.uk",
             "bidorbuyindia.com",
             "bidvestbank.co.za",
             "bienvenuechezbestbuy.ca",
@@ -9601,6 +9604,8 @@ var rules = [
             "tiberiumalliances.com",
             "tiburon.com",
             "tictoc.video",
+            "tidal.com",
+            "tidalhifi.com",
             "tidelift.com",
             "tiendabestbuy.com",
             "tiktok.com",
@@ -10637,6 +10642,7 @@ var rules = [
             "wikivoyage.org",
             "wiktionary.org",
             "wiley.com",
+            "wimpmusic.com",
             "windows-int.net",
             "windows.com",
             "windows.net",
