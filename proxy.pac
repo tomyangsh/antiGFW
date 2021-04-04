@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 28 Mar 2021 00:35:47 +0000
- * GFWList Last-Modified: 2021-03-28 00:35:44.642445485 +0000 UTC m=+0.035960433
+ * Generated: Sun, 04 Apr 2021 00:37:15 +0000
+ * GFWList Last-Modified: 2021-04-04 00:37:12.771590086 +0000 UTC m=+0.036752693
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -272,6 +272,8 @@ var rules = [
             "air-watch.com",
             "airav.cc",
             "airgonetworks.com",
+            "airiti.com",
+            "airitilibrary.com",
             "airmax360.com",
             "airmay.com",
             "airport-gov-cn.com",
@@ -5075,6 +5077,7 @@ var rules = [
             "hbogoasia.com",
             "hbogoasia.hk",
             "hbomax.com",
+            "hbomaxcdn.com",
             "hbonow.com",
             "hcaptcha.com",
             "hcaptchastatus.com",
@@ -7350,6 +7353,16 @@ var rules = [
             "netflix.ca",
             "netflix.com",
             "netflix.net",
+            "netflixdnstest1.com",
+            "netflixdnstest10.com",
+            "netflixdnstest2.com",
+            "netflixdnstest3.com",
+            "netflixdnstest4.com",
+            "netflixdnstest5.com",
+            "netflixdnstest6.com",
+            "netflixdnstest7.com",
+            "netflixdnstest8.com",
+            "netflixdnstest9.com",
             "netflixinvestor.com",
             "netflixtechblog.com",
             "netlify.com",
@@ -7650,6 +7663,7 @@ var rules = [
             "npm.community",
             "npmjs.com",
             "npmjs.org",
+            "npr.org",
             "nsimg.net",
             "ntc.party",
             "ntd.com",
