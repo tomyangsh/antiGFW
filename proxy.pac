@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 18 Apr 2021 00:36:48 +0000
- * GFWList Last-Modified: 2021-04-18 00:36:44.455651526 +0000 UTC m=+0.039985691
+ * Generated: Sun, 25 Apr 2021 00:38:16 +0000
+ * GFWList Last-Modified: 2021-04-25 00:38:14.465590824 +0000 UTC m=+0.037879734
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -8566,6 +8566,7 @@ var rules = [
             "rakuten.co.jp",
             "rakuten.com",
             "rakuten.com.tw",
+            "rakuten.ne.jp",
             "rakuten.tw",
             "rapidssl.com",
             "raponlinereview.com",
@@ -8984,8 +8985,12 @@ var rules = [
             "skysports.ie",
             "skysportsonline.com",
             "skysportsracing.com",
+            "slack-core.com",
             "slack-edge.com",
+            "slack-files.com",
             "slack-imgs.com",
+            "slack-msgs.com",
+            "slack-redir.net",
             "slack.com",
             "slackb.com",
             "slackcertified.com",
