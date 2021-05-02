@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 25 Apr 2021 00:38:16 +0000
- * GFWList Last-Modified: 2021-04-25 00:38:14.465590824 +0000 UTC m=+0.037879734
+ * Generated: Sun, 02 May 2021 00:31:33 +0000
+ * GFWList Last-Modified: 2021-05-02 00:31:31.682439516 +0000 UTC m=+0.053605019
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -3851,6 +3851,7 @@ var rules = [
             "facebook-covid-19.com",
             "facebook-ebook.com",
             "facebook-forum.com",
+            "facebook-hardware.com",
             "facebook-inc.com",
             "facebook-login.com",
             "facebook-newsroom.com",
