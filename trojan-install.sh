@@ -87,7 +87,7 @@ RestartSec=1s
 WantedBy=multi-user.target
 EOF
 systemctl enable --now trojan
-wget -q -nc https://github.com/p4gefau1t/trojan-go/releases/download/v0.8.3/trojan-go-linux-amd64.zip
+wget -q -nc https://github.com/p4gefau1t/trojan-go/releases/download/v0.9.0/trojan-go-linux-amd64.zip
 if [ ! -f trojan-go ]
 then
 	unzip trojan-go-linux-amd64.zip
