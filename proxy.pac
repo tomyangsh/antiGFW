@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 02 May 2021 00:31:33 +0000
- * GFWList Last-Modified: 2021-05-02 00:31:31.682439516 +0000 UTC m=+0.053605019
+ * Generated: Sun, 09 May 2021 00:20:47 +0000
+ * GFWList Last-Modified: 2021-05-09 00:20:45.134710536 +0000 UTC m=+0.042451631
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2784,6 +2784,8 @@ var rules = [
             "costcobusinessdelivery.com",
             "cotolia.com",
             "cotweet.com",
+            "coupang.com",
+            "coupangcdn.com",
             "couriermail.com.au",
             "coursera-for-business.org",
             "coursera.community",
@@ -10714,6 +10716,7 @@ var rules = [
             "wiremoneytoirelandwithxoomeasierandcheaper.com",
             "wireshark.org",
             "wise-research.com",
+            "wish.com",
             "withgoogle.com",
             "withyoutube.com",
             "wix-code.com",
