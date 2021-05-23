@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 16 May 2021 00:32:05 +0000
- * GFWList Last-Modified: 2021-05-16 00:32:00.718009308 +0000 UTC m=+0.048468032
+ * Generated: Sun, 23 May 2021 00:33:27 +0000
+ * GFWList Last-Modified: 2021-05-23 00:33:21.850554119 +0000 UTC m=+0.057841010
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -544,7 +544,6 @@ var rules = [
             "amebaownd.com",
             "amebaowndme.com",
             "ameblo.jp",
-            "amemv.com",
             "americasvoice.news",
             "amerikaninsesi.com",
             "amerikaninsesi.org",
@@ -6083,6 +6082,7 @@ var rules = [
             "jsbridgestone.com",
             "jsdelivr.com",
             "jsdelivr.net",
+            "jst.go.jp",
             "jstor.org",
             "jtvnw.net",
             "jupyter.org",
@@ -6459,6 +6459,7 @@ var rules = [
             "marketolive.com",
             "marketwatch.com",
             "markzuckerberg.com",
+            "maruzen.co.jp",
             "marvel.com",
             "marvel10thanniversary.com",
             "marveldimensionofheroes.com",
@@ -7465,6 +7466,7 @@ var rules = [
             "niconico.com",
             "nicoseiga.jp",
             "nicovideo.jp",
+            "nii.ac.jp",
             "nike-air-max.com",
             "nike-dunksb.com",
             "nike-fr.com",
