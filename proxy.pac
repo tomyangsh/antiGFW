@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 23 May 2021 00:33:27 +0000
- * GFWList Last-Modified: 2021-05-23 00:33:21.850554119 +0000 UTC m=+0.057841010
+ * Generated: Sun, 30 May 2021 01:00:18 +0000
+ * GFWList Last-Modified: 2021-05-30 01:00:16.084214742 +0000 UTC m=+0.040557439
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -596,6 +596,7 @@ var rules = [
             "api.news",
             "apigee.com",
             "apisof.net",
+            "apkmirror.com",
             "apkpure.com",
             "aple.com",
             "aplestore.com",
@@ -8441,6 +8442,7 @@ var rules = [
             "printersetupsupport.com",
             "printspots.com",
             "printspots.net",
+            "privacysandbox.com",
             "privacysimplified.com",
             "privacytools.io",
             "privatebrowsingmyths.com",
