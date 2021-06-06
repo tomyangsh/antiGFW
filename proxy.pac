@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 30 May 2021 01:00:18 +0000
- * GFWList Last-Modified: 2021-05-30 01:00:16.084214742 +0000 UTC m=+0.040557439
+ * Generated: Sun, 06 Jun 2021 00:42:27 +0000
+ * GFWList Last-Modified: 2021-06-06 00:42:25.119370604 +0000 UTC m=+0.028096107
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4667,6 +4667,7 @@ var rules = [
             "githubapp.com",
             "githubassets.com",
             "githubhackathon.com",
+            "githubpreview.dev",
             "githubstatus.com",
             "githubusercontent.com",
             "gitlab-static.net",
