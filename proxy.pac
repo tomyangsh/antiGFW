@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 20 Jun 2021 00:25:13 +0000
- * GFWList Last-Modified: 2021-06-20 00:25:11.638605955 +0000 UTC m=+0.035440570
+ * Generated: Sun, 27 Jun 2021 00:17:27 +0000
+ * GFWList Last-Modified: 2021-06-27 00:17:26.091277376 +0000 UTC m=+0.088976411
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4580,6 +4580,7 @@ var rules = [
             "garenanow.com",
             "gateway.dev",
             "gaypad.net",
+            "gbnews.uk",
             "gclubs.com",
             "gcr.io",
             "gcrtires.com",
@@ -4635,6 +4636,7 @@ var rules = [
             "getlantern.org",
             "getpocket.com",
             "getprintersupports.com",
+            "gettr.com",
             "gettyimages.ae",
             "gettyimages.at",
             "gettyimages.be",
