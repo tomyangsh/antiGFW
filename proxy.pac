@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 27 Jun 2021 00:17:27 +0000
- * GFWList Last-Modified: 2021-06-27 00:17:26.091277376 +0000 UTC m=+0.088976411
+ * Generated: Sun, 04 Jul 2021 00:23:49 +0000
+ * GFWList Last-Modified: 2021-07-04 00:23:43.497258782 +0000 UTC m=+0.041389924
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -9770,6 +9770,7 @@ var rules = [
             "tryengineering.org",
             "tryfunctions.com",
             "tryrating.com",
+            "ts.la",
             "tsquare.tv",
             "tssp.best",
             "tteshop.com",
