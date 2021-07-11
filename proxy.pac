@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 04 Jul 2021 00:23:49 +0000
- * GFWList Last-Modified: 2021-07-04 00:23:43.497258782 +0000 UTC m=+0.041389924
+ * Generated: Sun, 11 Jul 2021 00:25:09 +0000
+ * GFWList Last-Modified: 2021-07-11 00:25:07.009900485 +0000 UTC m=+0.037783709
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2671,6 +2671,7 @@ var rules = [
             "cloudflarestatus.com",
             "cloudflarestream.com",
             "cloudflaretest.com",
+            "cloudflarewarp.com",
             "cloudfront.net",
             "cloudfunctions.net",
             "cloudhealthtech.com",
