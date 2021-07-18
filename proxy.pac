@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 11 Jul 2021 00:25:09 +0000
- * GFWList Last-Modified: 2021-07-11 00:25:07.009900485 +0000 UTC m=+0.037783709
+ * Generated: Sun, 18 Jul 2021 00:25:27 +0000
+ * GFWList Last-Modified: 2021-07-18 00:25:23.424779287 +0000 UTC m=+0.038116043
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2349,6 +2349,7 @@ var rules = [
             "camelspaceeffect.com",
             "campushp.com",
             "campuslondon.com",
+            "camwhores.tv",
             "canada-beatsbydre.com",
             "canon-cee.com",
             "canon-cmos-sensors.com",
