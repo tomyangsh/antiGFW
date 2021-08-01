@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 25 Jul 2021 00:24:32 +0000
- * GFWList Last-Modified: 2021-07-25 00:24:28.421802504 +0000 UTC m=+0.039268934
+ * Generated: Sun, 01 Aug 2021 00:28:23 +0000
+ * GFWList Last-Modified: 2021-08-01 00:28:21.189221069 +0000 UTC m=+0.043144846
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4176,6 +4176,7 @@ var rules = [
             "fescebook.com",
             "fesebook.com",
             "ffacebook.com",
+            "fffdm.com",
             "fflick.com",
             "fflnk.net",
             "ffmpeg.org",
@@ -4556,6 +4557,7 @@ var rules = [
             "fxn.ws",
             "fxnetwork.com",
             "fxnetworks.com",
+            "fzdm.com",
             "g-technology.com",
             "g-tun.com",
             "g-tvapp.com",
@@ -4708,6 +4710,7 @@ var rules = [
             "githubhackathon.com",
             "githubpreview.dev",
             "githubstatus.com",
+            "githubuniverse.com",
             "githubusercontent.com",
             "gitlab-static.net",
             "gitlab.com",
@@ -9943,6 +9946,7 @@ var rules = [
             "v8.dev",
             "v8project.org",
             "vaginacontest.com",
+            "vagrantcloud.com",
             "vagrantup.com",
             "valuegb.com",
             "valvesoftware.com",
@@ -10683,6 +10687,7 @@ var rules = [
             "wenzhao.ca",
             "westerndigital.com",
             "weverse.io",
+            "wfm.com",
             "what-fan.net",
             "whatbrowser.org",
             "whatisairwatch.com",
@@ -10705,6 +10710,8 @@ var rules = [
             "whisolutions.com",
             "who.int",
             "wholecitiesfoundation.org",
+            "wholefoods.com",
+            "wholefoodsmarket.co.uk",
             "wholefoodsmarket.com",
             "wholekidsfoundation.org",
             "wholeplanetfoundation.org",
