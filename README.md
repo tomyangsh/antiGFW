@@ -54,9 +54,9 @@
 1. 主机填vps的ip，端口443，类型选Trojan，password先之前创建的密码，SNI填之前创建的二级域名，如 dontyoufxxkwithme.xxxxx.tk ，勾选下方Ignore Certificate和Ignore Host，ok确认
 2. 主机填域名，端口8443，类型选Trojan-Go，password先之前创建的密码，SNI填域名，勾选Mux，Type选ws，Host填域名，Path填`/alonglonglongwebsocketpath`，ok确认
 
-关于路由规则，可以自己研究路由规则，或使用下方pac自动配置文件，只要确保socks5端口是1089即可。设置前先在 hosts 文件中添加一行 `199.232.36.133 raw.githubusercontent.com` 以防DNS污染。
+关于路由规则，可以自己研究路由规则，或使用下方pac自动配置文件（对应socks5端口为1089）。设置前先在 hosts 文件中添加一行 `199.232.36.133 raw.githubusercontent.com` 以防DNS污染。
 
-    https://github.com/tomyangsh/antiGFW/raw/master/proxy.pac
+    https://github.com/tomyangsh/antiGFW/raw/master/1089.pac
 
 在 Windows 系统中，通过「Internet选项->连接->局域网设置-> 使用自动配置脚本」可以找到配置处，下方的地址栏填写 PAC 文件地址
 Chrome 中可以在「chrome://settings/->显示高级设置->更改代理服务器设置」中找到 PAC 填写地址。

@@ -48,13 +48,15 @@ jobs:
     - name: Build proxy.pac file
       run: |
         python3 -m pip install -U https://github.com/tomyangsh/genpac/archive/fix.zip
-        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089" > proxy.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890" > 7890.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:1089; SOCKS 127.0.0.1:1089" > 1089.pac
+        genpac --gfwlist-url - --gfwlist-local gfwlist.txt --pac-proxy "SOCKS5 127.0.0.1:9001; SOCKS 127.0.0.1:9001" > 9001.pac
 
     - name: Push proxy.pac file
       run: |
         git config --local user.name "actions"
         git config --local user.email "action@github.com"
-        git add proxy.pac
+        git add *.pac
         git commit -m "update proxy.pac"
         git push
       
