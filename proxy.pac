@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 01 Aug 2021 00:28:23 +0000
- * GFWList Last-Modified: 2021-08-01 00:28:21.189221069 +0000 UTC m=+0.043144846
+ * Generated: Sun, 08 Aug 2021 00:25:57 +0000
+ * GFWList Last-Modified: 2021-08-08 00:25:53.222758053 +0000 UTC m=+0.039651891
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -99,6 +99,7 @@ var rules = [
             "8008206616.com",
             "85tube.com",
             "881903.com",
+            "8muses.com",
             "91gay.me",
             "91porn.com",
             "91porn005.me",
@@ -1087,6 +1088,7 @@ var rules = [
             "awstrust.com",
             "axios.com",
             "ayudanintendo.com",
+            "aznude.com",
             "azure-dns.com",
             "azure-dns.info",
             "azure-dns.net",
@@ -7360,6 +7362,7 @@ var rules = [
             "nabtravellercard.com.au",
             "naiadsystems.com",
             "namemybeats.com",
+            "namethatporn.com",
             "natgeokidsbooks.co.uk",
             "natgeomaps.com",
             "nationalgeographic.com",
