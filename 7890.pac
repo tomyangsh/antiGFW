@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 08 Aug 2021 00:55:52 +0000
- * GFWList Last-Modified: 2021-08-08 00:55:48.653217179 +0000 UTC m=+0.044414187
+ * Generated: Sun, 15 Aug 2021 00:25:55 +0000
+ * GFWList Last-Modified: 2021-08-15 00:25:48.225000229 +0000 UTC m=+0.041549267
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2883,6 +2883,7 @@ var rules = [
             "dajiyuan.com",
             "dajiyuan.eu",
             "dandalinvoa.com",
+            "dandanzan.cc",
             "danemarket.com",
             "danmarkbeatsbydrdre.com",
             "daoc.net",
@@ -7239,6 +7240,7 @@ var rules = [
             "mucinex.net",
             "mucinex.tv",
             "mucinexprofessional.com",
+            "mudvod.tv",
             "muji.com",
             "muji.com.hk",
             "muji.eu",
@@ -7747,6 +7749,7 @@ var rules = [
             "ntnews.com.au",
             "nuget.org",
             "nugettest.org",
+            "nunuyy.cc",
             "nurofen.at",
             "nurofen.bg",
             "nurofen.co.il",
@@ -9399,6 +9402,7 @@ var rules = [
             "stcroixmosquito.com",
             "stcroixmosquitoproject.com",
             "steam-chat.com",
+            "steamchina.com",
             "steamcommunity.com",
             "steamcontent.com",
             "steamgames.com",
@@ -10433,6 +10437,7 @@ var rules = [
             "voatiengviet.com",
             "voatour.com",
             "voazimbabwe.com",
+            "vod360.net",
             "vokevr.com",
             "volvo-truck.nl",
             "volvo.ca",
