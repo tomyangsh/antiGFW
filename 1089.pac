@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 07 Nov 2021 00:28:59 +0000
- * GFWList Last-Modified: 2021-11-07 00:28:56.233839995 +0000 UTC m=+0.053453653
+ * Generated: Sun, 14 Nov 2021 00:29:17 +0000
+ * GFWList Last-Modified: 2021-11-14 00:29:12.480957231 +0000 UTC m=+0.047894197
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4884,6 +4884,7 @@ var rules = [
             "gogle.com",
             "gogo-load.com",
             "gogoanime.vc",
+            "gogoanime.wiki",
             "gogocdn.net",
             "gogole.com",
             "golang.com",
