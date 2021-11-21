@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 14 Nov 2021 00:29:17 +0000
- * GFWList Last-Modified: 2021-11-14 00:29:12.480957231 +0000 UTC m=+0.047894197
+ * Generated: Sun, 21 Nov 2021 00:29:35 +0000
+ * GFWList Last-Modified: 2021-11-21 00:29:32.442562886 +0000 UTC m=+0.038457906
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -968,6 +968,7 @@ var rules = [
             "appule.com",
             "appye.com",
             "apress.com",
+            "aps.org",
             "aptoide.com",
             "apture.com",
             "apyle.com",
@@ -1076,6 +1077,7 @@ var rules = [
             "auricularesbeatsmarkt.com",
             "ausbeatsbydrdre.com",
             "authorxml.com",
+            "authy.com",
             "autodesk.com",
             "autodraw.com",
             "automobile.fr",
