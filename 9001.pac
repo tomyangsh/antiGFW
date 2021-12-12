@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 05 Dec 2021 00:31:47 +0000
- * GFWList Last-Modified: 2021-12-05 00:31:40.637405583 +0000 UTC m=+0.043469495
+ * Generated: Sun, 12 Dec 2021 00:32:13 +0000
+ * GFWList Last-Modified: 2021-12-12 00:32:06.997520647 +0000 UTC m=+0.038935495
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1214,6 +1214,7 @@ var rules = [
             "bazel.build",
             "bbc.co.uk",
             "bbc.com",
+            "bbc.in",
             "bbc.net.uk",
             "bbci.co.uk",
             "bbcmedia.co.uk",
