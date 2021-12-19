@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 12 Dec 2021 00:32:13 +0000
- * GFWList Last-Modified: 2021-12-12 00:32:06.997520647 +0000 UTC m=+0.038935495
+ * Generated: Sun, 19 Dec 2021 00:32:56 +0000
+ * GFWList Last-Modified: 2021-12-19 00:32:50.25065127 +0000 UTC m=+0.037826550
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -6688,6 +6688,7 @@ var rules = [
             "managed-pki.de",
             "managedmeetingrooms.com",
             "mandatewire.com",
+            "manhuagui.com",
             "manorama.com",
             "manoramanews.com",
             "manoramaonline.com",
@@ -8109,6 +8110,7 @@ var rules = [
             "ogp.me",
             "ohyeah1080.com",
             "ok.ru",
+            "okaapps.com",
             "okex.com",
             "omekinteractive.com",
             "omghk.com",
