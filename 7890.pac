@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 19 Dec 2021 00:32:56 +0000
- * GFWList Last-Modified: 2021-12-19 00:32:50.25065127 +0000 UTC m=+0.037826550
+ * Generated: Sun, 26 Dec 2021 00:33:07 +0000
+ * GFWList Last-Modified: 2021-12-26 00:33:01.994909168 +0000 UTC m=+0.050317021
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
