@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 26 Dec 2021 00:33:07 +0000
- * GFWList Last-Modified: 2021-12-26 00:33:01.994909168 +0000 UTC m=+0.050317021
+ * Generated: Sun, 02 Jan 2022 00:32:37 +0000
+ * GFWList Last-Modified: 2022-01-02 00:32:32.165993026 +0000 UTC m=+0.040287211
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -5254,6 +5254,7 @@ var rules = [
             "hashicorp.com",
             "haskell.org",
             "haskellstack.org",
+            "hath.network",
             "haveibeenpwned.com",
             "hawaiibmw.com",
             "hayabusa.dev",
@@ -5295,6 +5296,7 @@ var rules = [
             "hegre.com",
             "hellokittybeats.com",
             "hellosmartbook.com",
+            "hentaiathome.net",
             "hentaiverse.org",
             "heptio.com",
             "heraldsun.com.au",
