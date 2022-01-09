@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 02 Jan 2022 00:32:37 +0000
- * GFWList Last-Modified: 2022-01-02 00:32:32.165993026 +0000 UTC m=+0.040287211
+ * Generated: Sun, 09 Jan 2022 00:33:21 +0000
+ * GFWList Last-Modified: 2022-01-09 00:33:14.810897025 +0000 UTC m=+0.047044782
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -7951,7 +7951,9 @@ var rules = [
             "nordstrommedia.com",
             "notepad-plus-plus.org",
             "notion-static.com",
+            "notion.com",
             "notion.new",
+            "notion.site",
             "notion.so",
             "now-ashare.com",
             "now-tv.com",
