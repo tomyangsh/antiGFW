@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 09 Jan 2022 00:33:21 +0000
- * GFWList Last-Modified: 2022-01-09 00:33:14.810897025 +0000 UTC m=+0.047044782
+ * Generated: Sun, 16 Jan 2022 00:33:52 +0000
+ * GFWList Last-Modified: 2022-01-16 00:33:49.465363098 +0000 UTC m=+0.037700352
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -8610,6 +8610,7 @@ var rules = [
             "pise.pw",
             "pittpatt.com",
             "pivotalinitiative.com",
+            "piwheels.org",
             "pixanalytics.com",
             "pixapp.net",
             "pixate.com",
@@ -10204,6 +10205,7 @@ var rules = [
             "ubi.com",
             "ubisoft.com",
             "ubnw.net",
+            "ubuntu-touch.io",
             "ubuntu.com",
             "ubuntu.net",
             "ubuntuforums.org",
