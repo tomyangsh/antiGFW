@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 23 Jan 2022 00:29:50 +0000
- * GFWList Last-Modified: 2022-01-23 00:29:48.075145003 +0000 UTC m=+0.030246703
+ * Generated: Sun, 30 Jan 2022 00:30:40 +0000
+ * GFWList Last-Modified: 2022-01-30 00:30:37.834888146 +0000 UTC m=+0.035936210
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -297,6 +297,8 @@ var rules = [
             "air-watch.com",
             "airav.cc",
             "airgonetworks.com",
+            "airhorn.solutions",
+            "airhornbot.com",
             "airiti.com",
             "airitilibrary.com",
             "airmax360.com",
@@ -3196,15 +3198,26 @@ var rules = [
             "direectv.com",
             "diretv.com",
             "dis.gd",
+            "discord-activities.com",
             "discord.co",
             "discord.com",
+            "discord.design",
+            "discord.dev",
             "discord.gg",
             "discord.gift",
             "discord.gifts",
             "discord.media",
             "discord.new",
+            "discord.store",
+            "discord.tools",
+            "discordactivities.com",
             "discordapp.com",
+            "discordapp.io",
             "discordapp.net",
+            "discordcdn.com",
+            "discordmerch.com",
+            "discordpartygames.com",
+            "discordsays.com",
             "discordstatus.com",
             "discountbeatsbydre-us.com",
             "discountbeatsstore.com",
@@ -4757,6 +4770,7 @@ var rules = [
             "gateway.dev",
             "gaypad.net",
             "gbnews.uk",
+            "gcld-line.com",
             "gclubs.com",
             "gcr.io",
             "gcrtires.com",
@@ -6530,6 +6544,7 @@ var rules = [
             "limelight.com",
             "lin.ee",
             "line-apps-beta.com",
+            "line-apps-rc.com",
             "line-apps.com",
             "line-beta.me",
             "line-cdn.net",
@@ -6541,6 +6556,8 @@ var rules = [
             "linefriends.com.tw",
             "linegame.jp",
             "linemobile.com",
+            "linemyshop.com",
+            "lineshoppingseller.com",
             "linetv.tw",
             "linguee.com",
             "linkedin.com",
@@ -10253,6 +10270,7 @@ var rules = [
             "ubereats.com",
             "ubi.com",
             "ubisoft.com",
+            "ubisoftconnect.com",
             "ubnw.net",
             "ubuntu-touch.io",
             "ubuntu.com",
