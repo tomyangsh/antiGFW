@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 30 Jan 2022 00:30:40 +0000
- * GFWList Last-Modified: 2022-01-30 00:30:37.834888146 +0000 UTC m=+0.035936210
+ * Generated: Sun, 06 Feb 2022 00:35:57 +0000
+ * GFWList Last-Modified: 2022-02-06 00:35:54.557974913 +0000 UTC m=+0.037753724
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -9258,6 +9258,7 @@ var rules = [
             "sci-hub.ee",
             "sci-hub.se",
             "sci-hub.st",
+            "science.org",
             "sciencedirect.com",
             "sciencedirectassets.com",
             "sciencemag.org",
