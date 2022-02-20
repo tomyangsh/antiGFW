@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 13 Feb 2022 00:35:12 +0000
- * GFWList Last-Modified: 2022-02-13 00:35:06.005199966 +0000 UTC m=+0.034690502
+ * Generated: Sun, 20 Feb 2022 00:39:26 +0000
+ * GFWList Last-Modified: 2022-02-20 00:39:23.58365877 +0000 UTC m=+0.031721117
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -607,6 +607,7 @@ var rules = [
             "andysparis.com",
             "anfutong.com",
             "angelbeats.jp",
+            "angle.com.tw",
             "angulardart.org",
             "anidom.com",
             "anigema.jp",
@@ -2248,6 +2249,7 @@ var rules = [
             "boxofficemojo.com",
             "boxun.com",
             "boylove.cc",
+            "boylove.com",
             "boyloves.cc",
             "braeburncapital.com",
             "braintreegateway.com",
@@ -5315,6 +5317,7 @@ var rules = [
             "gvt6.com",
             "gvt7.com",
             "gvt9.com",
+            "gwiki.net",
             "gwktravelex.nl",
             "h-cdn.com",
             "hackday.com.au",
@@ -5422,6 +5425,7 @@ var rules = [
             "highdefinitionbeatsbydre.com",
             "hightopnikes.com",
             "highwirepress.com",
+            "himalaya.exchange",
             "hindawi.com",
             "hindiweb.com",
             "hinet.net",
@@ -5464,6 +5468,7 @@ var rules = [
             "hometrack.com.au",
             "honawalaan.com",
             "hongkongfp.com",
+            "honkaistarrail.com",
             "hooloo.tv",
             "hoolu.com",
             "hoolu.tv",
@@ -5480,6 +5485,8 @@ var rules = [
             "housingcdn.com",
             "howtogetmo.co.uk",
             "howtohackfacebook-account.com",
+            "hoyolab.com",
+            "hoyoverse.com",
             "hp-imagine.com",
             "hp-infolab.com",
             "hp-invent.com",
@@ -6574,6 +6581,7 @@ var rules = [
             "letsencrypt.org",
             "lexisnexis.com",
             "lexuemei.com",
+            "lezpoo.com",
             "lfai.foundation",
             "lg.com",
             "lgappstv.com",
@@ -9216,6 +9224,7 @@ var rules = [
             "rolsociety.org",
             "root-signing.ch",
             "rootsigning.com",
+            "roughman.net",
             "routledgehandbooks.com",
             "royalsocietypublishing.org",
             "rpmfusion.org",
@@ -10176,6 +10185,7 @@ var rules = [
             "thisispolaris.com",
             "thismon.ee",
             "thisvid.com",
+            "thisvidscat.net",
             "thomsonreuters.ca",
             "thomsonreuters.cn",
             "thomsonreuters.co.jp",
@@ -11508,6 +11518,7 @@ var rules = [
             "xvideos-cdn.com",
             "xvideos.com",
             "xxbay.com",
+            "xxx.xxx",
             "ya.ru",
             "yahoo-news.com.hk",
             "yahoo.ae",
