@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 20 Feb 2022 00:39:26 +0000
- * GFWList Last-Modified: 2022-02-20 00:39:23.58365877 +0000 UTC m=+0.031721117
+ * Generated: Sun, 27 Feb 2022 00:38:44 +0000
+ * GFWList Last-Modified: 2022-02-27 00:38:34.712348375 +0000 UTC m=+0.051332806
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -583,6 +583,7 @@ var rules = [
             "amerikayidzayn.com",
             "amerikiskhma.com",
             "amiibo.com",
+            "amlg.io",
             "amp.dev",
             "amplifyapp.com",
             "amplifyframework.com",
@@ -5290,12 +5291,14 @@ var rules = [
             "grupobmw.com",
             "gscanada.info",
             "gsccdn.com",
+            "gsearch.media",
             "gslink.us",
             "gsrc.io",
             "gstatic.com",
             "gsuite.com",
             "gtv.org",
             "gtv1.org",
+            "gtvmediagroupfairfund.com",
             "gu-web.net",
             "guambmw.com",
             "guangming.com.my",
@@ -5318,6 +5321,7 @@ var rules = [
             "gvt7.com",
             "gvt9.com",
             "gwiki.net",
+            "gwins.org",
             "gwktravelex.nl",
             "h-cdn.com",
             "hackday.com.au",
@@ -6286,6 +6290,7 @@ var rules = [
             "iproperty.com",
             "iproperty.com.my",
             "iproperty.com.sg",
+            "irdeto.com",
             "ironna.jp",
             "irribay.com",
             "is.gd",
@@ -7582,6 +7587,7 @@ var rules = [
             "msudalosti.com",
             "msunlimitedcloudsummit.com",
             "mtt.org",
+            "mtvnservices.com",
             "mucinex.ca",
             "mucinex.cn",
             "mucinex.co.nz",
@@ -7863,6 +7869,7 @@ var rules = [
             "nflxsearch.net",
             "nflxso.net",
             "nflxvideo.net",
+            "nfscdict.com",
             "nfsworld.com",
             "ngeo.com",
             "nginx.com",
@@ -8403,6 +8410,7 @@ var rules = [
             "paradisehotelquizfox.com",
             "paragon.com",
             "paramount.com",
+            "paramountplus.com",
             "parastorage.com",
             "pardot.com",
             "park-now.com",
@@ -8858,6 +8866,7 @@ var rules = [
             "powersunitedvr.com",
             "pp-soc.com",
             "ppaypal.com",
+            "pplusstatic.com",
             "pppds.com",
             "practicalbusinessskills.com",
             "practicalmoneyskills.ca",
@@ -9186,6 +9195,7 @@ var rules = [
             "revenue-performance-management.com",
             "revolv.com",
             "rewrite-anime.tv",
+            "rexcha.com",
             "rfa.org",
             "rferl.org",
             "rfi.fr",
@@ -10001,6 +10011,7 @@ var rules = [
             "swtor.net",
             "syhacked.com",
             "synaptic.net",
+            "syncbak.com",
             "synergyse.com",
             "syosetu.com",
             "sysinternals.com",
@@ -10147,6 +10158,7 @@ var rules = [
             "theopportunityproject.org",
             "thepaypalshop.com",
             "thepiratebay.org",
+            "theplatform.com",
             "theporndude.com",
             "thescottishsun.co.uk",
             "thesffblog.com",
@@ -11718,6 +11730,7 @@ var rules = [
             "yibei.org",
             "yimg.com",
             "yimg.jp",
+            "yiqiedoushiganggangkaishi.org",
             "yjcontentdelivery.com",
             "ymail.com",
             "ync.ne.jp",
