@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 27 Feb 2022 00:38:45 +0000
- * GFWList Last-Modified: 2022-02-27 00:38:34.712348375 +0000 UTC m=+0.051332806
+ * Generated: Sun, 06 Mar 2022 00:37:38 +0000
+ * GFWList Last-Modified: 2022-03-06 00:37:35.228501176 +0000 UTC m=+0.032534416
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -9882,6 +9882,7 @@ var rules = [
             "steam-chat.com",
             "steamcommunity.com",
             "steamcontent.com",
+            "steamdeck.com",
             "steamgames.com",
             "steampowered.com",
             "steamstatic.com",
@@ -11139,6 +11140,7 @@ var rules = [
             "vrv.co",
             "vsallin.net",
             "vsassets.io",
+            "vscode.dev",
             "vsphere.com",
             "vsphere.net",
             "vtsociety.org",
