@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 06 Mar 2022 00:37:37 +0000
- * GFWList Last-Modified: 2022-03-06 00:37:35.228501176 +0000 UTC m=+0.032534416
+ * Generated: Sun, 13 Mar 2022 00:36:37 +0000
+ * GFWList Last-Modified: 2022-03-13 00:36:33.833254694 +0000 UTC m=+0.042214446
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -289,6 +289,7 @@ var rules = [
             "afp.com",
             "afpforum.com",
             "agendaweek.com",
+            "agu.org",
             "agzy1.com",
             "ahmia.fi",
             "aiaa.org",
@@ -2615,6 +2616,7 @@ var rules = [
             "cdnlab.live",
             "cdnpure.com",
             "cebay.com",
+            "ceicdata.com",
             "celebgramme.com",
             "celeron.com",
             "celeron.net",
@@ -4858,6 +4860,7 @@ var rules = [
             "gendai.net",
             "gentoo.org",
             "geodesummit.com",
+            "geolytics.com",
             "geoport.com",
             "geotrust.com",
             "geph.io",
@@ -5472,6 +5475,7 @@ var rules = [
             "hometrack.com.au",
             "honawalaan.com",
             "hongkongfp.com",
+            "honkaiimpact3.com",
             "honkaistarrail.com",
             "hooloo.tv",
             "hoolu.com",
@@ -5891,6 +5895,7 @@ var rules = [
             "indiaipad.com",
             "indiancolleges.com",
             "industrialtoys.com",
+            "infolinker.com.tw",
             "informs.org",
             "infotimes.com.tw",
             "infowars.com",
@@ -9359,6 +9364,7 @@ var rules = [
             "sciencedirect.com",
             "sciencedirectassets.com",
             "sciencemag.org",
+            "scienceonline.org",
             "scientificamerican.com",
             "scientificlinux.org",
             "scitation.org",
@@ -10224,6 +10230,7 @@ var rules = [
             "thunderbolttechnology.net",
             "tiberiumalliances.com",
             "tiburon.com",
+            "tickdata.com",
             "tictoc.video",
             "tidal.com",
             "tidalhifi.com",
@@ -11473,6 +11480,7 @@ var rules = [
             "xindelu.com",
             "xingrz.me",
             "xlstudio.com",
+            "xmulib.org",
             "xn--3et96bj49ahpq.com",
             "xn--4vq475g.com",
             "xn--4vq477m.com",
