@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 20 Mar 2022 00:38:40 +0000
- * GFWList Last-Modified: 2022-03-20 00:38:32.432039493 +0000 UTC m=+0.053294037
+ * Generated: Sun, 27 Mar 2022 00:44:15 +0000
+ * GFWList Last-Modified: 2022-03-27 00:44:09.277251126 +0000 UTC m=+0.033072009
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2432,6 +2432,7 @@ var rules = [
             "bydrebeats.com",
             "bypasscensorship.org",
             "byspotify.com",
+            "byteoversea.com",
             "c-ij.com",
             "c-span.org",
             "c-spanvideo.org",
@@ -2888,6 +2889,7 @@ var rules = [
             "com.ru",
             "cometotheduckside.com",
             "commandandconquer.com",
+            "comments.app",
             "commerceos.com",
             "como-hackearfacebook.com",
             "comodo.com",
@@ -3118,6 +3120,8 @@ var rules = [
             "deno.land",
             "dentalhypotheses.com",
             "dependabot.com",
+            "deps.dev",
+            "deps.info",
             "desertbmw.com",
             "designeriphonescases.com",
             "desk.com",
@@ -8362,6 +8366,8 @@ var rules = [
             "openjsf.org",
             "openmaps.org",
             "openresty.org",
+            "opensourceinsight.dev",
+            "opensourceinsights.dev",
             "openssl.org",
             "openstreetmap.com",
             "openstreetmap.net",
@@ -10287,6 +10293,7 @@ var rules = [
             "tidalhifi.com",
             "tidelift.com",
             "tiendabestbuy.com",
+            "tik-tokapi.com",
             "tiktok.com",
             "tiktokcdn.com",
             "tiktokv.com",
@@ -11757,6 +11764,7 @@ var rules = [
             "yahoofinance.com",
             "yahoohealth.com",
             "yahoomusic.com",
+            "yahoosandbox.com",
             "yahoosportsbook.com",
             "yale.edu",
             "yamaxun.com",
