@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 27 Mar 2022 00:44:15 +0000
- * GFWList Last-Modified: 2022-03-27 00:44:09.277251126 +0000 UTC m=+0.033072009
+ * Generated: Sun, 03 Apr 2022 00:44:43 +0000
+ * GFWList Last-Modified: 2022-04-03 00:44:39.226800806 +0000 UTC m=+0.035721006
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -82,6 +82,9 @@ var rules = [
             "2buybeatsbydre.com",
             "2ch.net",
             "2drdrebeats.com",
+            "2k.com",
+            "2kcoretech.online",
+            "2kgames.com",
             "2mdn.net",
             "2o7.net",
             "40shopping.com",
@@ -2893,6 +2896,7 @@ var rules = [
             "commerceos.com",
             "como-hackearfacebook.com",
             "comodo.com",
+            "comodo.net",
             "comodoca.com",
             "comodoca2.com",
             "comodoca3.com",
@@ -3190,6 +3194,7 @@ var rules = [
             "didce.com",
             "diddykongracing.com",
             "dierectv.com",
+            "digicert-cn.com",
             "digicert.com",
             "digital-id.ch",
             "digital-rb.com",
@@ -8444,6 +8449,7 @@ var rules = [
             "pacifickitchenandhome.com",
             "packagist.org",
             "packer.io",
+            "pacloudflare.com",
             "page.link",
             "page3.com",
             "pagecdn.com",
@@ -8900,6 +8906,7 @@ var rules = [
             "pornkai.com",
             "pornmd.com",
             "pornogramxxx.com",
+            "pornrips.cc",
             "pornstarbyface.com",
             "porntea.com",
             "pornzog.com",
@@ -10090,6 +10097,7 @@ var rules = [
             "tailwindtraders.com",
             "taipeitimes.com",
             "taiwannews.com.tw",
+            "take2games.com",
             "takegoto.com",
             "talentlens.com",
             "talksport.com",
@@ -10216,6 +10224,7 @@ var rules = [
             "themessengeradelaide.com.au",
             "themoviedb.org",
             "thenationalpulse.com",
+            "thenewgirlspooping.com",
             "thenewslens.com",
             "thenextweb.com",
             "theopportunityproject.org",
