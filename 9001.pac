@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 28 Aug 2022 00:59:42 +0000
- * GFWList Last-Modified: 2022-08-28 00:59:39.477620827 +0000 UTC m=+0.047486686
+ * Generated: Sun, 04 Sep 2022 00:58:05 +0000
+ * GFWList Last-Modified: 2022-09-04 00:57:53.059475906 +0000 UTC m=+0.054180783
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -8154,7 +8154,11 @@ var rules = [
             "jjgirls.com",
             "jkbeats.com",
             "jkforum.net",
+            "jmcomic.me",
             "jmcomic.mobi",
+            "jmcomic.moe",
+            "jmcomic1.city",
+            "jmcomic1.me",
             "jmcomic1.mobi",
             "jmlr.org",
             "jneurosci.org",
@@ -10578,6 +10582,7 @@ var rules = [
             "opengraphprotocol.org",
             "openjsf.org",
             "openmaps.org",
+            "openmidas.com",
             "openresty.org",
             "opensource.guide",
             "opensourceinsight.dev",
@@ -11607,6 +11612,8 @@ var rules = [
             "qorno.com",
             "qporno.xxx",
             "qprize.com",
+            "qq.design",
+            "qqgamedesign.com",
             "qr.ae",
             "qt-project.org",
             "qt.io",
@@ -12917,6 +12924,7 @@ var rules = [
             "sunporno.com",
             "supanimegames.com",
             "superadultgames.com",
+            "supercell.com",
             "supercoach.com.au",
             "superearsenjoy.com",
             "superhqporn.com",
@@ -13100,6 +13108,7 @@ var rules = [
             "tellme.pw",
             "tellmewhygame.com",
             "tenbyfotolia.com",
+            "tencent.design",
             "tensorflow.org",
             "terapeack.com",
             "terapeak.ca",
@@ -14558,6 +14567,7 @@ var rules = [
             "webtype.com",
             "weekly-economist.com",
             "weeklytimesnow.com.au",
+            "wegamedeveloper.com",
             "weinvoiceit.com",
             "weiyuksj.com",
             "weknowporn.com",
