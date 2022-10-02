@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 25 Sep 2022 01:01:24 +0000
- * GFWList Last-Modified: 2022-09-25 01:01:22.652702987 +0000 UTC m=+0.041038838
+ * Generated: Sun, 02 Oct 2022 01:13:43 +0000
+ * GFWList Last-Modified: 2022-10-02 01:13:41.697866333 +0000 UTC m=+0.037904889
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -887,6 +887,7 @@ var rules = [
             "amazonpay.in",
             "amazonprimevideos.com",
             "amazonsdi.com",
+            "amazonses.com",
             "amazonstudiosguilds.com",
             "amazontrust.com",
             "amazonvideo.cc",
@@ -1638,6 +1639,8 @@ var rules = [
             "azatutyun.am",
             "aziani.com",
             "aznude.com",
+            "azure-devices-int.net",
+            "azure-devices.net",
             "azure-dns.com",
             "azure-dns.info",
             "azure-dns.net",
@@ -2916,6 +2919,7 @@ var rules = [
             "boslife.net",
             "bossae.com",
             "bossagency.co.uk",
+            "boswp.com",
             "botframework.com",
             "botorch.org",
             "botstop.com",
@@ -5133,6 +5137,7 @@ var rules = [
             "ero-labs.net",
             "ero-manga-platinum.net",
             "ero-mangalife.com",
+            "eroan.xyz",
             "erocurves.com",
             "erodougazo.com",
             "erodoujinshi-world.com",
@@ -8407,6 +8412,7 @@ var rules = [
             "ivintageporn.com",
             "iw8j.cc",
             "iwank.tv",
+            "iwantavnow.com",
             "iwantporn.net",
             "iwaponline.com",
             "iwara.tv",
@@ -8687,6 +8693,7 @@ var rules = [
             "karupspc.com",
             "kastatic.org",
             "katestube.com",
+            "kav.tw",
             "kavkazr.com",
             "kayako.com",
             "kbdxlesx.xyz",
@@ -8810,6 +8817,7 @@ var rules = [
             "kubernetes.io",
             "kuke.com",
             "kum.com",
+            "kumo.com",
             "kundun1069.com",
             "kusugurizanmai.com",
             "kyodo-d.info",
@@ -9237,6 +9245,8 @@ var rules = [
             "managedmeetingrooms.com",
             "managedpki.com",
             "managedpki.ne.jp",
+            "management-azure-devices-int.net",
+            "management-azure-devices.net",
             "mandatewire.com",
             "manga-mill.com",
             "manga18.art",
@@ -10166,6 +10176,7 @@ var rules = [
             "msgamesresearch.com",
             "msinnovationchallenge.com",
             "msn.com",
+            "msn.net",
             "msnbc.com",
             "msnewskids.com",
             "msnewskids.net",
@@ -12672,6 +12683,7 @@ var rules = [
             "s-books.com",
             "s-cashonmobile.com",
             "s-microsoft.com",
+            "s-msft.com",
             "s-msn.com",
             "s-nbcnews.com",
             "s-rewards.hk",
@@ -14821,6 +14833,7 @@ var rules = [
             "viacomcbspressexpress.com",
             "viddeo-jav.net",
             "video-one.com",
+            "video01.org",
             "videobreakdown.com",
             "videochampion.com",
             "videodelivery.net",
