@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 16 Oct 2022 01:12:25 +0000
- * GFWList Last-Modified: 2022-10-16 01:12:23.05089439 +0000 UTC m=+0.048911412
+ * Generated: Sun, 23 Oct 2022 01:08:17 +0000
+ * GFWList Last-Modified: 2022-10-23 01:08:13.079969616 +0000 UTC m=+0.052526948
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -3671,6 +3671,7 @@ var rules = [
             "cloudflareclient.com",
             "cloudflareinsights.com",
             "cloudflareok.com",
+            "cloudflarepreview.com",
             "cloudflareresolve.com",
             "cloudflaressl.com",
             "cloudflarestatus.com",
@@ -13883,6 +13884,7 @@ var rules = [
             "svaboda.org",
             "svc.ms",
             "sverigebeatsbydrdre.com",
+            "svipshipin.store",
             "svoboda.org",
             "svobodnaevropa.bg",
             "svp-team.com",
