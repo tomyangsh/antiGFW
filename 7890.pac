@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 06 Nov 2022 00:57:50 +0000
- * GFWList Last-Modified: 2022-11-06 00:57:45.242208509 +0000 UTC m=+0.039372491
+ * Generated: Sun, 13 Nov 2022 00:54:21 +0000
+ * GFWList Last-Modified: 2022-11-13 00:54:18.96017138 +0000 UTC m=+0.052422395
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -5191,6 +5191,7 @@ var rules = [
             "ero-kawa.com",
             "ero-labs.com",
             "ero-labs.net",
+            "ero-labs.online",
             "ero-ma-nia.com",
             "ero-manga-platinum.net",
             "ero-mangalife.com",
@@ -7333,6 +7334,7 @@ var rules = [
             "hetzner.cloud",
             "hetzner.com",
             "hetzner.de",
+            "hex.pm",
             "heydoga.com",
             "heydouga.com",
             "heywire.com",
@@ -15583,6 +15585,8 @@ var rules = [
             "vrv.co",
             "vsallin.net",
             "vsassets.io",
+            "vscode-cdn.net",
+            "vscode-unpkg.net",
             "vscode.dev",
             "vsezoo.com",
             "vsphere.com",
