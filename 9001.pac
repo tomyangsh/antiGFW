@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 13 Nov 2022 00:54:21 +0000
- * GFWList Last-Modified: 2022-11-13 00:54:18.96017138 +0000 UTC m=+0.052422395
+ * Generated: Sun, 20 Nov 2022 00:57:11 +0000
+ * GFWList Last-Modified: 2022-11-20 00:57:04.755134338 +0000 UTC m=+0.060147553
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -232,6 +232,7 @@ var rules = [
             "54647.io",
             "54647.online",
             "54647.org",
+            "55dndn.com",
             "58avgo.com",
             "592r.com",
             "59mvmv.com",
@@ -279,11 +280,13 @@ var rules = [
             "77maott.com",
             "7jp.info",
             "7mm.tv",
+            "7mmtv.sx",
             "7mmtv.tv",
             "7tb.cc",
             "8008206616.com",
             "8111y.top",
             "81jia.tv",
+            "82mvmv.com",
             "85st.com",
             "85tube.com",
             "881903.com",
@@ -5353,6 +5356,7 @@ var rules = [
             "faapy.com",
             "faasbook.com",
             "fabhairypussy.com",
+            "fabuye.top",
             "fabuyemian.com",
             "facbebook.com",
             "facbeok.com",
@@ -11022,6 +11026,7 @@ var rules = [
             "niosii.com",
             "niosii.net",
             "nist.gov",
+            "nivod.tv",
             "nixos.org",
             "niziero.info",
             "nke6.com",
@@ -14067,6 +14072,7 @@ var rules = [
             "tandfonline.com",
             "tanflix.com",
             "tangbr.net",
+            "taose.tv",
             "taptotokyo.com",
             "taradinhos.com",
             "target.com",
@@ -16047,6 +16053,7 @@ var rules = [
             "xgaytube.tv",
             "xgirls.webcam",
             "xgroovy.com",
+            "xgsp.tv",
             "xh-porn.com",
             "xhamster.com",
             "xhamster.desi",
