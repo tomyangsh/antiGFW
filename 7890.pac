@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 27 Nov 2022 00:54:19 +0000
- * GFWList Last-Modified: 2022-11-27 00:54:14.93229141 +0000 UTC m=+0.056171358
+ * Generated: Sun, 04 Dec 2022 00:45:03 +0000
+ * GFWList Last-Modified: 2022-12-04 00:45:00.407394456 +0000 UTC m=+0.038187533
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -521,6 +521,7 @@ var rules = [
             "adultartsites.com",
             "adultbay.org",
             "adultblogranking.com",
+            "adultblogtoplist.com",
             "adultcamslover.com",
             "adultdeepfakes.com",
             "adultdvdmarketplace.com",
@@ -551,6 +552,7 @@ var rules = [
             "adultvideotop.com",
             "adultvirtualworlds.net",
             "advancediddetection.com",
+            "adventofcode.com",
             "adventuresbydisney.com",
             "advertisercommunity.com",
             "advertiserscommunity.com",
@@ -5737,6 +5739,7 @@ var rules = [
             "fblitho.com",
             "fbmarketing.com",
             "fbmessenger.com",
+            "fbooktaiwan.com",
             "fbredex.com",
             "fbreg.com",
             "fbrell.com",
@@ -7657,6 +7660,7 @@ var rules = [
             "htyj-bj.com",
             "hu1u.com",
             "huanghuagang.org",
+            "huangse.love",
             "huanyuju.com",
             "huashundg.com",
             "hubg.org",
@@ -8641,7 +8645,6 @@ var rules = [
             "jav2be.com",
             "jav321.com",
             "jav4you.org",
-            "jav777.cc",
             "jav9999.com",
             "java.com",
             "java.net",
@@ -8700,6 +8703,7 @@ var rules = [
             "javplatform.com",
             "javporn.tech",
             "javporn.ws",
+            "javpost.net",
             "javprice.com",
             "javprime.net",
             "javpub.me",
@@ -10686,6 +10690,7 @@ var rules = [
             "netarabic.com",
             "netfapx.com",
             "netflav.com",
+            "netflav1.com",
             "netflix.ca",
             "netflix.com",
             "netflix.net",
@@ -12245,6 +12250,7 @@ var rules = [
             "pornoreino.com",
             "pornorips.com",
             "pornos.live",
+            "pornoscanner.com",
             "pornosfilmes.com",
             "pornoslon.me",
             "pornosphere.com",
@@ -12299,6 +12305,7 @@ var rules = [
             "porntube.com",
             "pornuj.cz",
             "pornultras.com",
+            "pornv.org",
             "pornve.com",
             "pornvibe.org",
             "pornvideobb.com",
@@ -13225,6 +13232,7 @@ var rules = [
             "sexxxhd.com",
             "sexxxxfilms.com",
             "sexy-babe-pics.com",
+            "sexy-torrents.com",
             "sexy3dtoon.com",
             "sexyandfunny.com",
             "sexycandidgirls.com",
@@ -14108,6 +14116,7 @@ var rules = [
             "tearapeak.com",
             "teatroporno.com",
             "techatbloomberg.com",
+            "techcrunch.com",
             "techhub.ms",
             "techliquidators.com",
             "technews.tw",
@@ -16914,6 +16923,7 @@ var rules = [
             "zoig.com",
             "zononi.com",
             "zoo-hardcore.com",
+            "zoo-porno.biz",
             "zoo-tube8.com",
             "zoo-xnxx.com",
             "zoo-xvideo.com",
