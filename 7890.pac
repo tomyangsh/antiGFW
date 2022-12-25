@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 18 Dec 2022 00:42:13 +0000
- * GFWList Last-Modified: 2022-12-18 00:42:09.346308857 +0000 UTC m=+0.055617344
+ * Generated: Sun, 25 Dec 2022 00:45:11 +0000
+ * GFWList Last-Modified: 2022-12-25 00:45:05.553277555 +0000 UTC m=+0.058629911
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4053,6 +4053,7 @@ var rules = [
             "daindianporn.com",
             "dajiyuan.com",
             "dajiyuan.eu",
+            "damduc.org",
             "damnhotz.com",
             "damplips.com",
             "dandalinvoa.com",
@@ -9707,6 +9708,7 @@ var rules = [
             "megaphone.fm",
             "megapornfreehd.com",
             "megaporno.com.br",
+            "megapornpics.com",
             "megatitsminka.com",
             "meijinsen.jp",
             "meilleurpornos.com",
@@ -10616,6 +10618,7 @@ var rules = [
             "naked-girls.me",
             "naked.com",
             "nakedasiansex.com",
+            "nakedgirls.biz",
             "nakedmodelsxxx.com",
             "nakednews.com",
             "namemybeats.com",
@@ -10822,6 +10825,7 @@ var rules = [
             "nflxvideo.net",
             "nfsc.global",
             "nfscdict.com",
+            "nfscofficial.com",
             "nfsworld.com",
             "nftstorage.link",
             "ngeo.com",
@@ -14167,6 +14171,7 @@ var rules = [
             "telebay.com",
             "telega.one",
             "telegra.ph",
+            "telegram-cdn.org",
             "telegram-porn.com",
             "telegram.dog",
             "telegram.me",
@@ -16292,6 +16297,7 @@ var rules = [
             "xxmovz.com",
             "xxnxx-porn.com",
             "xxnxx-sex.com",
+            "xxu.mobi",
             "xxvideo.mobi",
             "xxvideos.xxx",
             "xxvideoss.org",
