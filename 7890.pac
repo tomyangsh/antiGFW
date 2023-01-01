@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 25 Dec 2022 00:45:11 +0000
- * GFWList Last-Modified: 2022-12-25 00:45:05.553277555 +0000 UTC m=+0.058629911
+ * Generated: Sun, 01 Jan 2023 00:51:13 +0000
+ * GFWList Last-Modified: 2023-01-01 00:51:10.337578351 +0000 UTC m=+0.059590794
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -383,6 +383,7 @@ var rules = [
             "absolutewhores.com",
             "ac-pocketcamp.com",
             "academynetriders.com",
+            "acaric.co.jp",
             "acasadasbrasileirinhas.com.br",
             "accbusiness.com",
             "acces-vod.com",
@@ -1422,6 +1423,7 @@ var rules = [
             "area51.to",
             "arewereadyyet.com",
             "areyoucreditwise.com",
+            "argotunnel.com",
             "aria.ms",
             "arirangmeari.com",
             "ark.to",
@@ -1834,6 +1836,7 @@ var rules = [
             "bcvp0rtal.com",
             "bdawnvr.xyz",
             "bdn.dev",
+            "bdsm-mov.net",
             "bdsm.com",
             "bdsmboard.org",
             "bdsmbunker.com",
@@ -3551,6 +3554,7 @@ var rules = [
             "cheerwholesale.us",
             "chemnetbase.com",
             "chengjuanseo.com",
+            "cherry-tale.com",
             "cherryasia.com",
             "cherrybrady.com",
             "cherrynudes.com",
@@ -3698,6 +3702,7 @@ var rules = [
             "cloudflare.com",
             "cloudflare.net",
             "cloudflare.tv",
+            "cloudflareaccess.com",
             "cloudflareapps.com",
             "cloudflarebolt.com",
             "cloudflareclient.com",
@@ -3719,6 +3724,7 @@ var rules = [
             "cloudinary.com",
             "cloudinary.net",
             "cloudinsights.com",
+            "cloudlatex.io",
             "cloudlive.com",
             "cloudlock.com",
             "cloudn.me",
@@ -5206,6 +5212,7 @@ var rules = [
             "ero-labs.com",
             "ero-labs.net",
             "ero-labs.online",
+            "ero-labs.site",
             "ero-ma-nia.com",
             "ero-manga-platinum.net",
             "ero-mangalife.com",
@@ -5730,7 +5737,9 @@ var rules = [
             "faycbok.com",
             "fb.careers",
             "fb.com",
+            "fb.gg",
             "fb.me",
+            "fb.watch",
             "fbacebook.com",
             "fbbmarket.com",
             "fbboostyourbusiness.com",
@@ -5759,6 +5768,7 @@ var rules = [
             "fbthirdpartypixel.net",
             "fbthirdpartypixel.org",
             "fburl.com",
+            "fbwat.ch",
             "fbworkmail.com",
             "fc2.com",
             "fc2ppv.tv",
@@ -9470,6 +9480,7 @@ var rules = [
             "mangahentai.me",
             "mangahome.com",
             "mangoporn.net",
+            "manhuabika.com",
             "manhuagui.com",
             "manhub.com",
             "manhunt.net",
@@ -11485,6 +11496,7 @@ var rules = [
             "over18arcade.com",
             "overapple.com",
             "overcast.fm",
+            "overleaf.com",
             "overthumbs.com",
             "ovid.com",
             "ox.ac.uk",
@@ -14215,6 +14227,7 @@ var rules = [
             "tex-talk.net",
             "texttobuy.org",
             "texture.com",
+            "tferwq.com",
             "tfhub.dev",
             "tfsallin.net",
             "tg.dev",
@@ -14240,6 +14253,7 @@ var rules = [
             "the-tls.co.uk",
             "theadulthub.com",
             "theaffairs.com",
+            "theatlantic.com",
             "theaustralian.com.au",
             "theav.cc",
             "thebanker.com",
@@ -15885,6 +15899,7 @@ var rules = [
             "winudf.com",
             "wionews.com",
             "wipower.com",
+            "wired.com",
             "wireguard.com",
             "wireless.radio",
             "wirelessgroup.co.uk",
