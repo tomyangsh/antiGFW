@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 08 Jan 2023 00:47:56 +0000
- * GFWList Last-Modified: 2023-01-08 00:47:52.993619925 +0000 UTC m=+0.062248520
+ * Generated: Sun, 15 Jan 2023 00:49:17 +0000
+ * GFWList Last-Modified: 2023-01-15 00:49:09.410851292 +0000 UTC m=+0.066085617
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1909,6 +1909,7 @@ var rules = [
             "bdn.dev",
             "bdsm-mov.net",
             "bdsm.com",
+            "bdsm123.xyz",
             "bdsmboard.org",
             "bdsmbunker.com",
             "bdsmcafe.com",
@@ -2998,6 +2999,7 @@ var rules = [
             "boltdns.net",
             "bondagecomixxx.net",
             "bondagesex-xxx.com",
+            "bondagesm.xyz",
             "bonedathome.com",
             "bongacams.com",
             "bonyu.cyou",
@@ -3497,6 +3499,7 @@ var rules = [
             "catalinacruz.com",
             "catcert.cat",
             "catmiimi.com",
+            "cbart.net",
             "cbs.com",
             "cbsaavideo.com",
             "cbscorporation.com",
@@ -6693,7 +6696,9 @@ var rules = [
             "get.app",
             "get.dev",
             "get.how",
+            "get.new",
             "get.page",
+            "get.rsvp",
             "getadblock.com",
             "getbootstrap.com",
             "getboxer.com",
@@ -6917,6 +6922,7 @@ var rules = [
             "googel.com",
             "googil.com",
             "googl.com",
+            "google-access.net",
             "google-analytics.com",
             "google-syndication.com",
             "google.ad",
@@ -7552,6 +7558,7 @@ var rules = [
             "hetzner.de",
             "hex.pm",
             "hexdocs.pm",
+            "hey.boo",
             "heydoga.com",
             "heydouga.com",
             "heywire.com",
@@ -9419,6 +9426,7 @@ var rules = [
             "line-beta.me",
             "line-cdn.net",
             "line-scdn.net",
+            "line.biz",
             "line.me",
             "linearcollider.org",
             "linecorp.com",
@@ -11025,6 +11033,7 @@ var rules = [
             "new-akiba.com",
             "new-jero.net",
             "new-redtube.com",
+            "new.day",
             "new3dcomics.com",
             "newbeatsblackfriday.com",
             "newbemany.com",
@@ -12948,6 +12957,10 @@ var rules = [
             "quoracdn.net",
             "quotable.com",
             "quovadisglobal.com",
+            "qwant.com",
+            "qwant.de",
+            "qwant.fr",
+            "qwant.it",
             "qwapi.com",
             "qzav.tv",
             "r-project.org",
@@ -13573,6 +13586,7 @@ var rules = [
             "sexkorea.net",
             "sexlikereal.com",
             "sexmadeathome.com",
+            "sexmerci.com",
             "sexmex.xxx",
             "sexmix.net",
             "sexmomsex.com",
