@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 05 Feb 2023 00:51:08 +0000
- * GFWList Last-Modified: 2023-02-05 00:51:01.359281547 +0000 UTC m=+0.061292145
+ * Generated: Sun, 12 Feb 2023 00:51:01 +0000
+ * GFWList Last-Modified: 2023-02-12 00:50:56.445987506 +0000 UTC m=+0.051834766
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -975,6 +975,7 @@ var rules = [
             "amazonvideodirect.com",
             "amazonworkdocs.com",
             "amd.com",
+            "amd.com.cn",
             "amdfanstore.com",
             "amdigital.co.uk",
             "ameba.jp",
@@ -4365,6 +4366,7 @@ var rules = [
             "deutschsex.com",
             "dev-guardianapis.com",
             "dev-theguardian.com",
+            "dev.to",
             "devcon.org",
             "developer-advisor.com",
             "developria.com",
@@ -6599,6 +6601,7 @@ var rules = [
             "gaming-notebooks.com",
             "gandhara.ru",
             "gandi.net",
+            "ganjing.com",
             "ganjingworld.com",
             "gannett-cdn.com",
             "gannett.com",
@@ -9556,10 +9559,13 @@ var rules = [
             "login-paypal.info",
             "logitech.biz",
             "logitech.com",
+            "logitech.com.cn",
             "logitech.fr",
             "logitech.io",
             "logitechg.com",
+            "logitechg.com.cn",
             "logitechg.fr",
+            "logitechio.com.cn",
             "loholidayhk.com",
             "loibus.cc",
             "loibus.com",
@@ -11402,6 +11408,7 @@ var rules = [
             "niosii.com",
             "niosii.net",
             "nist.gov",
+            "niuc2.com",
             "nivod.tv",
             "nixos.org",
             "niziero.info",
@@ -11922,6 +11929,7 @@ var rules = [
             "pandamovies.pw",
             "pankwire.com",
             "panoramio.com",
+            "pantheonsite.io",
             "pantswalker.net",
             "paofu.cloud",
             "paofuyun.me",
@@ -11953,6 +11961,8 @@ var rules = [
             "patentgold.net",
             "patenttruth.org",
             "patreon.com",
+            "patreoncommunity.com",
+            "patreonusercontent.com",
             "paulsimon-music.com",
             "pavpal.com",
             "paxful.com",
