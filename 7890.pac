@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 05 Mar 2023 00:55:34 +0000
- * GFWList Last-Modified: 2023-03-05 00:55:32.182082636 +0000 UTC m=+0.056407764
+ * Generated: Sun, 12 Mar 2023 00:49:04 +0000
+ * GFWList Last-Modified: 2023-03-12 00:48:57.462817359 +0000 UTC m=+0.066699500
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1059,6 +1059,7 @@ var rules = [
             "andysparis.com",
             "anfutong.com",
             "angelbeats.jp",
+            "angelweb.jp",
             "angle.com.tw",
             "angulardart.org",
             "anibooru.com",
@@ -13149,6 +13150,7 @@ var rules = [
             "qdiehzz7.me",
             "qdmomentum.com",
             "qinav.com",
+            "qingenporn.net",
             "qingse.one",
             "qkjuyet.com",
             "qmap.pub",
@@ -14114,6 +14116,7 @@ var rules = [
             "siteripz.com",
             "siteripz.net",
             "situero.com",
+            "sjcollect.com",
             "skate2.com",
             "skebetter.com",
             "skillshare.com",
@@ -15160,6 +15163,7 @@ var rules = [
             "titsintops.com",
             "tittykings.com",
             "tjsbfj.com",
+            "tjstats.com",
             "tkb008.xyz",
             "tktube.com",
             "tmdb.org",
@@ -16394,6 +16398,7 @@ var rules = [
             "vsphere.net",
             "vtsociety.org",
             "vtvan.com",
+            "vulgarx.com",
             "vultr.com",
             "vuvuzela.io",
             "vxnbbrs.xyz",
