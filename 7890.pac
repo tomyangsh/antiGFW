@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 16 Apr 2023 00:44:03 +0000
- * GFWList Last-Modified: 2023-04-16 00:43:59.049180455 +0000 UTC m=+0.050399752
+ * Generated: Sun, 23 Apr 2023 00:46:54 +0000
+ * GFWList Last-Modified: 2023-04-23 00:46:45.625594299 +0000 UTC m=+0.062656671
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -118,6 +118,7 @@ var rules = [
             "1jjdg2.vip",
             "1jsa22.vip",
             "1lib.cloud",
+            "1lib.cz",
             "1lib.domains",
             "1lib.education",
             "1lib.eu",
@@ -805,6 +806,7 @@ var rules = [
             "akastream.net",
             "akatns.net",
             "akiba-online.com",
+            "akiba-web.com",
             "al.ru",
             "albagals.com",
             "albastudio.co",
@@ -2299,6 +2301,7 @@ var rules = [
             "beegfree.com",
             "beejp.net",
             "befuck.com",
+            "befuck.net",
             "begellhouse.com",
             "begin-trade.com",
             "behance.net",
@@ -5568,6 +5571,7 @@ var rules = [
             "ero-mangalife.com",
             "eroan.xyz",
             "erocurves.com",
+            "erodayo.com",
             "erodougazo.com",
             "erodoujinshi-world.com",
             "eroelog.com",
@@ -17484,6 +17488,7 @@ var rules = [
             "xxxccc4.com",
             "xxxclub.club",
             "xxxcomics.org",
+            "xxxdan.com",
             "xxxdinotube.com",
             "xxxengine.net",
             "xxxfile.org",
