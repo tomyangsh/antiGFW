@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 07 May 2023 00:44:47 +0000
- * GFWList Last-Modified: 2023-05-07 00:44:38.747550073 +0000 UTC m=+0.050447147
+ * Generated: Sun, 14 May 2023 00:45:19 +0000
+ * GFWList Last-Modified: 2023-05-14 00:45:15.019187384 +0000 UTC m=+0.045010043
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -37,6 +37,7 @@ var rules = [
             "110xnxx.com",
             "112263.com",
             "114av.xyz",
+            "11jav.com",
             "123-hp.com",
             "123hplaserjet.com",
             "123sex.top",
@@ -586,6 +587,7 @@ var rules = [
             "adsense.com",
             "adsensecustomsearchads.com",
             "adsenseformobileapps.com",
+            "adult-h.com",
             "adult-home-videos.com",
             "adult-list.com",
             "adult-sex-games.com",
@@ -747,6 +749,7 @@ var rules = [
             "airwick.tv",
             "airwick.us",
             "airwickarabia.com",
+            "aisejushi.com",
             "aishegw.com",
             "aiv-cdn.net",
             "ajplus.net",
@@ -1080,7 +1083,6 @@ var rules = [
             "amsterdamhotescort.com",
             "amsterdamluxescort.com",
             "amytele.com",
-            "amz123.com",
             "amzn.asia",
             "amzn.com",
             "amzn.to",
@@ -6625,6 +6627,7 @@ var rules = [
             "free-aa.com",
             "free-abbywinters.com",
             "free-avx.jp",
+            "free-erobooks.com",
             "free-sns.com",
             "free-strip-games.com",
             "free-wap-tube.com",
@@ -6796,6 +6799,7 @@ var rules = [
             "fuqqt.com",
             "furaffinity.net",
             "furrypornvideos.com",
+            "furuke.com",
             "fury.blog",
             "fury.co",
             "fury.dev",
@@ -8065,6 +8069,7 @@ var rules = [
             "hotsexvideo.mobi",
             "hotsexydolls.com",
             "hotstar-cdn.net",
+            "hotstar-labs.com",
             "hotstar.com",
             "hotstarext.com",
             "hotstunners.com",
@@ -9273,6 +9278,7 @@ var rules = [
             "javbabe.net",
             "javbangers.com",
             "javbobo.com",
+            "javbooks.com",
             "javbraze.com",
             "javbus.com",
             "javbus22.com",
@@ -9390,7 +9396,6 @@ var rules = [
             "javynow.com",
             "jayspov.net",
             "jbe-platform.com",
-            "jbk005.com",
             "jdavsp.asia",
             "jdavsp.pw",
             "jdbimgs.com",
@@ -12121,6 +12126,7 @@ var rules = [
             "office365tw.com",
             "officialbeatsbydreshop.com",
             "officialbeatsbydrestore.com",
+            "officialblog.jp",
             "officialdrdre.com",
             "officialheadphone.com",
             "offresspecialesbmw.ca",
@@ -12328,6 +12334,7 @@ var rules = [
             "ouplaw.com",
             "ouroath.com",
             "oursexgames.com",
+            "ourshdtv.com",
             "ourshemales.com",
             "outbound.io",
             "outdoorpublicsex.com",
