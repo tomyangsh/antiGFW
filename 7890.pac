@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 14 May 2023 00:45:19 +0000
- * GFWList Last-Modified: 2023-05-14 00:45:15.019187384 +0000 UTC m=+0.045010043
+ * Generated: Sun, 21 May 2023 00:47:26 +0000
+ * GFWList Last-Modified: 2023-05-21 00:47:18.189730187 +0000 UTC m=+0.058131103
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1583,6 +1583,7 @@ var rules = [
             "arphic.com.cn",
             "arphic.com.tw",
             "art1lib.com",
+            "artixlinux.org",
             "artnudegalleries.com",
             "artoferotica.info",
             "artstation.com",
@@ -6844,6 +6845,7 @@ var rules = [
             "game-platform.net",
             "gamebeforethegame.com",
             "gameon-masters.com",
+            "gamepass.com",
             "gamepedia.com",
             "gamer.com.tw",
             "gameroom.com",
@@ -7459,6 +7461,7 @@ var rules = [
             "googleusercontent.com",
             "googleventures.com",
             "googlevideo.com",
+            "googlezip.net",
             "googlr.com",
             "goolge.com",
             "gooogle.com",
@@ -9890,6 +9893,7 @@ var rules = [
             "lingeriepornonly.com",
             "linguee.com",
             "link-o-rama.com",
+            "link.com",
             "link2galleries.com",
             "link69.com",
             "linkedin.at",
@@ -10416,6 +10420,7 @@ var rules = [
             "mdhcdn.com",
             "mdialog.com",
             "mdlf.xyz",
+            "mdn.dev",
             "mdnkids.com",
             "mdpi.com",
             "me-gay.com",
@@ -10615,6 +10620,7 @@ var rules = [
             "miexnoviadesnuda.com",
             "miitomo.com",
             "miiverse.com",
+            "mikrotik.com",
             "miktex.org",
             "mikuexpo.com",
             "milehighmedia.com",
@@ -11191,6 +11197,7 @@ var rules = [
             "msturing.org",
             "msudalosti.com",
             "msunlimitedcloudsummit.com",
+            "mt.lv",
             "mtao.fun",
             "mtt.org",
             "mtvnservices.com",
@@ -12919,6 +12926,7 @@ var rules = [
             "pocketbiketrader.com",
             "pocketcasts.com",
             "poe.com",
+            "poecdn.net",
             "pogo.com",
             "pogobeta.com",
             "poi.moe",
@@ -13866,6 +13874,7 @@ var rules = [
             "roshy.tv",
             "rou.video",
             "roughman.net",
+            "routerboard.com",
             "routledgehandbooks.com",
             "royalcams.com",
             "royalsocietypublishing.org",
@@ -15052,6 +15061,7 @@ var rules = [
             "strip-poker.xxx",
             "stripcamfun.com",
             "stripchat.com",
+            "stripe-terminal-local-reader.net",
             "stripe.com",
             "stripe.network",
             "stripecdn.com",
@@ -17297,6 +17307,7 @@ var rules = [
             "xboxone.com",
             "xboxone.eu",
             "xboxplayanywhere.com",
+            "xboxservices.com",
             "xboxstudios.com",
             "xboyvids.com",
             "xbrasilporno.com",
@@ -17909,6 +17920,7 @@ var rules = [
             "yjcontentdelivery.com",
             "ymail.com",
             "ync.ne.jp",
+            "ynoproject.net",
             "yo1health.com",
             "yogalayout.com",
             "yogify.com",
