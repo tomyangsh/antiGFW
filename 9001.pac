@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 21 May 2023 00:47:26 +0000
- * GFWList Last-Modified: 2023-05-21 00:47:18.189730187 +0000 UTC m=+0.058131103
+ * Generated: Sun, 28 May 2023 00:48:58 +0000
+ * GFWList Last-Modified: 2023-05-28 00:48:50.872956558 +0000 UTC m=+0.060176251
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -863,6 +863,7 @@ var rules = [
             "allhorsesex.com",
             "alliancesages.com",
             "allinternal.com",
+            "allizom.net",
             "allizom.org",
             "alljapanesepass.com",
             "allmomsex.com",
