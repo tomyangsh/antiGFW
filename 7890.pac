@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 04 Jun 2023 00:57:42 +0000
- * GFWList Last-Modified: 2023-06-04 00:57:34.218845477 +0000 UTC m=+0.061954373
+ * Generated: Sun, 11 Jun 2023 00:55:23 +0000
+ * GFWList Last-Modified: 2023-06-11 00:55:17.97238858 +0000 UTC m=+0.045032098
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2489,6 +2489,12 @@ var rules = [
             "bili2.cc",
             "bili888.com",
             "bili999.com",
+            "bilibiligame.cn",
+            "bilibiligame.co",
+            "bilibiligame.net",
+            "biligame.co",
+            "biligame.com",
+            "biligame.net",
             "biliplus.com",
             "bill-safe.com",
             "billmelater.com",
@@ -3725,6 +3731,7 @@ var rules = [
             "ceicdata.com",
             "celebforum.co",
             "celebgramme.com",
+            "celebmasta.live",
             "celebritygay.com",
             "celebritynakeds.com",
             "celebrityslips.com",
@@ -4166,6 +4173,7 @@ var rules = [
             "contentful.com",
             "contest.com",
             "convrgencegame.com",
+            "cooer.su",
             "cookiechoices.org",
             "cool-comics.com",
             "cool18.com",
@@ -9621,6 +9629,7 @@ var rules = [
             "keezmovies.com",
             "keiba.net",
             "kemono.party",
+            "kemono.su",
             "kendralist.com",
             "kenxxx.com",
             "kenya4.com",
@@ -9835,6 +9844,7 @@ var rules = [
             "lemoncams.com",
             "lencr.org",
             "lenkino.xxx",
+            "lenporno.red",
             "leporno.org",
             "lepornochaud.com",
             "lepornofrais.com",
@@ -10072,6 +10082,7 @@ var rules = [
             "lovesexdurex.com",
             "lovethiscity.com",
             "lowergiseries.com",
+            "lowiro.com",
             "lp99.pw",
             "lpsg.com",
             "lqh0bon3.xyz",
@@ -13246,7 +13257,9 @@ var rules = [
             "pornogratis.vlog.br",
             "pornogrund.com",
             "pornoh.info",
+            "pornohd.blue",
             "pornohd.plus",
+            "pornohd.porn",
             "pornohoo.com.mx",
             "pornohut.info",
             "pornohutdeutsch.net",
@@ -16959,6 +16972,7 @@ var rules = [
             "warddogs.com",
             "wariolandshakeit.com",
             "wariowarediy.com",
+            "warnermediacdn.com",
             "warp.plus",
             "warroom.org",
             "wasdj.com",
