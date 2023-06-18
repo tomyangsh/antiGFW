@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 11 Jun 2023 00:55:23 +0000
- * GFWList Last-Modified: 2023-06-11 00:55:17.97238858 +0000 UTC m=+0.045032098
+ * Generated: Sun, 18 Jun 2023 00:54:48 +0000
+ * GFWList Last-Modified: 2023-06-18 00:54:43.583898151 +0000 UTC m=+0.053547862
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -3454,7 +3454,9 @@ var rules = [
             "bwbx.io",
             "bwh1.net",
             "bwh8.net",
+            "bwh81.net",
             "bwh88.net",
+            "bwh89.net",
             "bwin.com",
             "bybeatsdre.com",
             "bydrebeats.com",
