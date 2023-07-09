@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 02 Jul 2023 00:57:23 +0000
- * GFWList Last-Modified: 2023-07-02 00:57:18.055644516 +0000 UTC m=+0.061565761
+ * Generated: Sun, 09 Jul 2023 00:59:20 +0000
+ * GFWList Last-Modified: 2023-07-09 00:59:12.468048669 +0000 UTC m=+0.058584745
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4125,6 +4125,7 @@ var rules = [
             "collins.co.uk",
             "collins.in",
             "colombianas.webcam",
+            "colorfulpalette.org",
             "colorfulstage.com",
             "colorprotechnology.com",
             "com.am",
@@ -9625,6 +9626,7 @@ var rules = [
             "kaamuu.com",
             "kaggle.com",
             "kaggle.io",
+            "kaggle.net",
             "kaggleusercontent.com",
             "kairakudoujin.net",
             "kaktuz.com",
@@ -15706,6 +15708,8 @@ var rules = [
             "tik-tokapi.com",
             "tiktok.com",
             "tiktokcdn.com",
+            "tiktokd.net",
+            "tiktokd.org",
             "tiktokv.com",
             "tiltbrush.com",
             "time.gov",
