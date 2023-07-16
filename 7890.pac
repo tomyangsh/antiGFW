@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 09 Jul 2023 00:59:19 +0000
- * GFWList Last-Modified: 2023-07-09 00:59:12.468048669 +0000 UTC m=+0.058584745
+ * Generated: Sun, 16 Jul 2023 01:00:43 +0000
+ * GFWList Last-Modified: 2023-07-16 01:00:39.719189067 +0000 UTC m=+0.046674018
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -10517,6 +10517,8 @@ var rules = [
             "mdlf.xyz",
             "mdn.dev",
             "mdnkids.com",
+            "mdnplay.dev",
+            "mdnyalp.dev",
             "mdpi.com",
             "mdyy.de",
             "me-gay.com",
