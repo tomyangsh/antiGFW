@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 16 Jul 2023 01:00:43 +0000
- * GFWList Last-Modified: 2023-07-16 01:00:39.719189067 +0000 UTC m=+0.046674018
+ * Generated: Sun, 23 Jul 2023 00:52:08 +0000
+ * GFWList Last-Modified: 2023-07-23 00:52:00.191341935 +0000 UTC m=+0.079432951
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2012,6 +2012,7 @@ var rules = [
             "bb33.net",
             "bbbaihu.vip",
             "bbc-anal.com",
+            "bbc-reporting-api.app",
             "bbc.co.uk",
             "bbc.com",
             "bbc.in",
@@ -7605,6 +7606,7 @@ var rules = [
             "guifw.xyz",
             "guifw2.top",
             "guim.co.uk",
+            "guimcode.co.uk",
             "gumtree.sg",
             "guo.media",
             "guochantube.com",
@@ -18392,6 +18394,7 @@ var rules = [
             "yunlaopo.cc",
             "yunlaopo.com",
             "yunlaopo.net",
+            "yusercontent.com",
             "yusjb.com",
             "yuvutu.com",
             "ywbclx.top",
