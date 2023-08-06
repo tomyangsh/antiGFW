@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 30 Jul 2023 00:46:32 +0000
- * GFWList Last-Modified: 2023-07-30 00:46:27.220763253 +0000 UTC m=+0.060194845
+ * Generated: Sun, 06 Aug 2023 00:41:12 +0000
+ * GFWList Last-Modified: 2023-08-06 00:41:06.185069801 +0000 UTC m=+0.071196930
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -692,7 +692,6 @@ var rules = [
             "ahtranny.com",
             "ahvideosexe.com",
             "ahxxx.club",
-            "ai.com",
             "aiaa.org",
             "aiasahi.jp",
             "aibaobei.me",
@@ -7590,6 +7589,7 @@ var rules = [
             "gratisvideokijken.nl",
             "gravatar.com",
             "gravitytank.com",
+            "grazie.ai",
             "greatergothammini.com",
             "greatfire.org",
             "greatretroporn.com",
@@ -12343,6 +12343,9 @@ var rules = [
             "onefifteen.org",
             "onejapanese.com",
             "onejav.com",
+            "onekey-asset.com",
+            "onekey.so",
+            "onekeycn.com",
             "onenote.com",
             "onenote.net",
             "onepornlist.com",
@@ -17041,6 +17044,7 @@ var rules = [
             "vxnbbrs.xyz",
             "vxxsred.xyz",
             "vzw.com",
+            "w-mt.co",
             "w.org",
             "w.wiki",
             "w0512.com",
