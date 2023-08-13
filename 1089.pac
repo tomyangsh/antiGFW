@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 06 Aug 2023 00:41:12 +0000
- * GFWList Last-Modified: 2023-08-06 00:41:06.185069801 +0000 UTC m=+0.071196930
+ * Generated: Sun, 13 Aug 2023 00:38:12 +0000
+ * GFWList Last-Modified: 2023-08-13 00:38:02.240510397 +0000 UTC m=+0.060572524
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -2501,12 +2501,6 @@ var rules = [
             "bili2.cc",
             "bili888.com",
             "bili999.com",
-            "bilibiligame.cn",
-            "bilibiligame.co",
-            "bilibiligame.net",
-            "biligame.co",
-            "biligame.com",
-            "biligame.net",
             "biliplus.com",
             "bill-safe.com",
             "billmelater.com",
@@ -11497,6 +11491,7 @@ var rules = [
             "mypornvid.fun",
             "mypornwap.fun",
             "myq2.com",
+            "myqnapcloud.com",
             "myradio.com.hk",
             "myradio.hk",
             "myrewardzone.com",
@@ -13677,10 +13672,12 @@ var rules = [
             "qingenporn.net",
             "qingse.one",
             "qkjuyet.com",
+            "qlink.to",
             "qmap.pub",
             "qmov.com",
             "qmov.net",
             "qmttqg3k.me",
+            "qnap.com",
             "qombol.com",
             "qoo10.jp",
             "qooqlevideo.com",
