@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 13 Aug 2023 00:38:12 +0000
- * GFWList Last-Modified: 2023-08-13 00:38:02.240510397 +0000 UTC m=+0.060572524
+ * Generated: Sun, 20 Aug 2023 00:37:42 +0000
+ * GFWList Last-Modified: 2023-08-20 00:37:36.711782894 +0000 UTC m=+0.074543576
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -5115,6 +5115,7 @@ var rules = [
             "dungeonkeeper.cn",
             "dungeonkeeper.com",
             "dungeonkeeper.com.cn",
+            "duolingo.com",
             "duoweiweek.com",
             "durex-shop.ch",
             "durex-shopline.com",
@@ -8515,6 +8516,7 @@ var rules = [
             "ids-apple.com",
             "idservice.inc",
             "idvd.eu",
+            "idx.dev",
             "ie10.com",
             "ie11.com",
             "ie8.co",
