@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 20 Aug 2023 00:37:41 +0000
- * GFWList Last-Modified: 2023-08-20 00:37:36.711782894 +0000 UTC m=+0.074543576
+ * Generated: Sun, 27 Aug 2023 00:39:01 +0000
+ * GFWList Last-Modified: 2023-08-27 00:38:54.215648218 +0000 UTC m=+0.076836719
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -8820,6 +8820,9 @@ var rules = [
             "inoreader.com",
             "inporn.com",
             "insendi.com",
+            "inshot.cc",
+            "inshot.com",
+            "inshotapp.com",
             "inside.com.tw",
             "insidefilms.com",
             "insidemacintosh.com",
@@ -13909,6 +13912,8 @@ var rules = [
             "redditstatic.com",
             "redfaptube.com",
             "redgifs.com",
+            "redhat.com",
+            "redhat.org",
             "redhdtube.xxx",
             "redino.tw",
             "redis.io",
