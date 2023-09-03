@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 27 Aug 2023 00:39:02 +0000
- * GFWList Last-Modified: 2023-08-27 00:38:54.215648218 +0000 UTC m=+0.076836719
+ * Generated: Sun, 03 Sep 2023 00:39:38 +0000
+ * GFWList Last-Modified: 2023-09-03 00:39:22.721945051 +0000 UTC m=+0.086208449
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -7134,6 +7134,8 @@ var rules = [
             "ghostgames.com",
             "ghtv666.top",
             "giantessbooru.com",
+            "giffgaff.com",
+            "giffgaff.design",
             "gifnuki.com",
             "gigabyte.com",
             "gigantits.com",
