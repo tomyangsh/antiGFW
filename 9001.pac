@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 10 Sep 2023 00:39:29 +0000
- * GFWList Last-Modified: 2023-09-10 00:39:24.151615595 +0000 UTC m=+0.056368146
+ * Generated: Sun, 17 Sep 2023 00:39:46 +0000
+ * GFWList Last-Modified: 2023-09-17 00:39:40.152171199 +0000 UTC m=+0.097502501
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1553,6 +1553,7 @@ var rules = [
             "applw.com",
             "appmediagroup.com",
             "approvedusedbmw.com",
+            "appsflayer.com",
             "appsonebay.net",
             "appspot.com",
             "appsto.re",
@@ -2574,6 +2575,7 @@ var rules = [
             "bitfinex.com",
             "bitflyer.com",
             "bitflyer.jp",
+            "bitget.com",
             "bitly.com",
             "bitly.is",
             "bitmex.com",
@@ -2588,6 +2590,7 @@ var rules = [
             "bittrex.com",
             "bitvise.com",
             "bitwarden.com",
+            "bitwarden.eu",
             "bizarresexuality.com",
             "bizographics.com",
             "bkkdown.site",
@@ -4109,7 +4112,9 @@ var rules = [
             "codivorexxx.com",
             "coedcherry.com",
             "coinbase.com",
+            "coingecko.com",
             "coinglass.com",
+            "coinmarketcap.com",
             "coinone.co.kr",
             "coinonecore.com",
             "coinonecorp.com",
@@ -4290,6 +4295,7 @@ var rules = [
             "cruel-furies.com",
             "crunchyroll.com",
             "crustwebsites.net",
+            "crypto.com",
             "cryptocompare.com",
             "crypton.co.jp",
             "crysis.jp",
@@ -6953,6 +6959,7 @@ var rules = [
             "garotoesperto.com",
             "gastrointestinalexam.com",
             "gate.cc",
+            "gate.io",
             "gateway.dev",
             "gauleporno.xxx",
             "gay.bingo",
@@ -9722,6 +9729,7 @@ var rules = [
             "kijji.ca",
             "kijjiji.ca",
             "kikdirty.com",
+            "killcovid2021.com",
             "kilmeadeandfriends.com",
             "kimchi.tv",
             "kimogirl.cc",
@@ -10625,6 +10633,8 @@ var rules = [
             "metrotoons.com",
             "meuhentai.com",
             "mewe.com",
+            "mexc.com",
+            "mexcsensors.com",
             "mfg-inspector.com",
             "mgo-images.com",
             "mgo.com",
@@ -14111,6 +14121,7 @@ var rules = [
             "s2stagehance.com",
             "s81c.com",
             "s8ds5gfm.xyz",
+            "saasexch.com",
             "sabuibo.net",
             "sacduc.com",
             "sacredhentai.com",
@@ -16167,6 +16178,7 @@ var rules = [
             "unfiltered.news",
             "ungrounded.net",
             "uninhibitedcomix.com",
+            "unisat.io",
             "uniswap.org",
             "unity.com",
             "unity3d.com",
@@ -17159,6 +17171,7 @@ var rules = [
             "webkitgtk.org",
             "webmoneyinfo.com",
             "webmproject.org",
+            "webnovel.com",
             "webobjects.co.uk",
             "webobjects.com",
             "webobjects.de",
