@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 24 Sep 2023 00:39:42 +0000
- * GFWList Last-Modified: 2023-09-24 00:39:37.928529634 +0000 UTC m=+0.050132099
+ * Generated: Sun, 01 Oct 2023 00:43:20 +0000
+ * GFWList Last-Modified: 2023-10-01 00:43:13.867427254 +0000 UTC m=+0.051675723
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -4023,6 +4023,7 @@ var rules = [
             "cloudcraze.com",
             "cloudcredibility.com",
             "cloudflare-dns.com",
+            "cloudflare-ech.com",
             "cloudflare-gateway.com",
             "cloudflare-ipfs.com",
             "cloudflare-quic.com",
@@ -4187,6 +4188,7 @@ var rules = [
             "conair.me",
             "conan.xxx",
             "conda.io",
+            "conductrics.com",
             "connaissancesfinancierespratiques.ca",
             "connect-in-canada.com",
             "connectcommerce.hk",
@@ -7645,6 +7647,7 @@ var rules = [
             "guifw2.top",
             "guim.co.uk",
             "guimcode.co.uk",
+            "gumroad.com",
             "gumtree.sg",
             "guo.media",
             "guochantube.com",
@@ -11981,6 +11984,12 @@ var rules = [
             "nikezoom.com",
             "nikkan-gendai.com",
             "nikkansports.com",
+            "nikke-de.com",
+            "nikke-en.com",
+            "nikke-fr.com",
+            "nikke-jp.com",
+            "nikke-kr.com",
+            "nikke-sea.com",
             "nikkei-cnbc.co.jp",
             "nikkei.co.jp",
             "nikkei.com",
