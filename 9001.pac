@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: Sun, 08 Oct 2023 00:40:43 +0000
- * GFWList Last-Modified: 2023-10-08 00:40:38.157033319 +0000 UTC m=+0.055739752
+ * Generated: Sun, 15 Oct 2023 00:41:09 +0000
+ * GFWList Last-Modified: 2023-10-15 00:41:01.025809255 +0000 UTC m=+0.075116378
  * GFWList From: local[/home/runner/work/antiGFW/antiGFW/gfwlist.txt]
  */
 
@@ -1592,6 +1592,8 @@ var rules = [
             "arcgisonline.com",
             "archive-it.org",
             "archive.org",
+            "archive.ph",
+            "archive.today",
             "archiveofourown.com",
             "archiveofourown.net",
             "archiveofourown.org",
@@ -4159,6 +4161,7 @@ var rules = [
             "com.in",
             "com.kn",
             "com.ru",
+            "com.uk",
             "comcast.net",
             "comdotgame.com",
             "comeav.com",
@@ -7222,6 +7225,7 @@ var rules = [
             "githubapp.com",
             "githubassets.com",
             "githubhackathon.com",
+            "githubnext.com",
             "githubpreview.dev",
             "githubstatus.com",
             "githubuniverse.com",
@@ -11882,6 +11886,7 @@ var rules = [
             "nike.com.hk",
             "nike.gy",
             "nike.hk",
+            "nike.host",
             "nike.shop",
             "nike.us",
             "nike.xn--hxt814e",
@@ -14750,6 +14755,7 @@ var rules = [
             "sing68.com",
             "singlelogin.app",
             "singlelogin.me",
+            "singlelogin.site",
             "singpao.com.hk",
             "singtao.com",
             "singtaobooks.com",
