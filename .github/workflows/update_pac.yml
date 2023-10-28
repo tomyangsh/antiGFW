@@ -1,0 +1,33 @@
+name: Update and push PAC files
+on:
+  schedule:    
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Build PAC files
+        run: python genpac.py
+
+      - name: Push pac files
+        run: |
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git add *.pac
+          git commit -m "update pac"
+          git push
+      
+
+      
