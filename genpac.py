@@ -16,14 +16,14 @@ domain_string = "',\n\t'".join(domain_list)
 def genpac(port):
     pac = f'''var proxy = 'SOCKS5 127.0.0.1:{port}; DIRECT';
 var rules = [
-    '{domain_string}'
+\t'{domain_string}'
 ]
 
 '''
     pac += '''function FindProxyForURL(url, host) {
-if (rules.includes(/[^.]\.(.+)/.exec(host)[1]) || rules.includes(host)) {
- return proxy;
-}
+    if (rules.includes(/[^.]\.(.+)/.exec(host)[1]) || rules.includes(host)) {
+        return proxy;
+    }
 }'''
     open(str(port) + '.pac', 'w').write(pac)
 
