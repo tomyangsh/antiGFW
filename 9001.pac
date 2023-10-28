@@ -1,6 +1,6 @@
 var proxy = 'SOCKS5 127.0.0.1:9001; DIRECT';
 var rules = [
-    '01.org',
+	'01.org',
 	'01.org',
 	'02weqj32.com',
 	'04647.club',
@@ -21107,7 +21107,7 @@ var rules = [
 ]
 
 function FindProxyForURL(url, host) {
-if (rules.includes(/[^.]\.(.+)/.exec(host)[1]) || rules.includes(host)) {
- return proxy;
-}
+    if (rules.includes(/[^.]\.(.+)/.exec(host)[1]) || rules.includes(host)) {
+        return proxy;
+    }
 }
