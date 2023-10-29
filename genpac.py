@@ -21,7 +21,7 @@ var rules = [
 
 '''
     pac += '''function FindProxyForURL(url, host) {
-    if (rules.includes(/[^.]\.(.+)/.exec(host)[1]) || rules.includes(host)) {
+    if (rules.includes(host.match(/\.(.+)/)[1]) || rules.includes(host)) {
         return proxy;
     }
 }'''
