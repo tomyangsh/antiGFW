@@ -1,7 +1,7 @@
 import re
 
 def genpac(port, name='', file='geolocation-!cn', custom_list=[]):
-    domain_list = custom_list
+    domain_list = custom_list[:]
     element_list = open(f"domain-list-community/{file}.txt").read().split()
 
     for i in element_list:
