@@ -2239,6 +2239,7 @@ var rules = [
 	'kuyiso.com',
 	'kwaizt.com',
 	'kysec.cn',
+	'l.qq.com',
 	'lady8844.com',
 	'lagou.com',
 	'laiwang.com',
