@@ -1,7 +1,7 @@
 import re
 
-def genpac(port, name='', file='geolocation-!cn', custom_list=[], host='127.0.0.1'):
-    domain_list = custom_list[:]
+def gen_list(file):
+    domain_list = []
     element_list = open(f"domain-list-community/{file}.txt").read().split()
 
     for i in element_list:
@@ -10,27 +10,32 @@ def genpac(port, name='', file='geolocation-!cn', custom_list=[], host='127.0.0.
             domain_list.append(parse.group(2))
 
     domain_list.sort()
-    domain_string = "',\n\t'".join(domain_list)
+    return domain_list
 
-    pac = f'''var proxy = 'SOCKS5 {host}:{port}; DIRECT';
-var rules = [
-\t'{domain_string}'
+def gen_pac(rule, domain_list, name):
+    domain_str = "',\n\t'".join(domain_list)
+    pac = f'''var rule = '{rule}';
+var domain_list = [
+\t'{domain_str}'
 ]
 
 '''
     pac += '''function FindProxyForURL(url, host) {
-    if (rules.includes(host.match(/\.(.+)/)[1]) || rules.includes(host)) {
-        return proxy;
+    if (domain_list.includes(host.match(/\.(.+)/)[1]) || domain_list.includes(host)) {
+        return rule;
     }
 }'''
-    open(str(name or port) + '.pac', 'w').write(pac)
+    open(str(name) + '.pac', 'w').write(pac)
 
-genpac(7890)
-genpac(9001)
+foreign_list = gen_list('geolocation-!cn')
+
+gen_pac('SOCKS5 127.0.0.1:7890', foreign_list, 7890)
+gen_pac('SOCKS5 127.0.0.1:9001; SOCKS5 192.168.50.10:9001; SOCKS5 192.168.50.10:9002; SOCKS5 192.168.50.10:9003; SOCKS5 192.168.50.10:9004', foreign_list, 9001)
 
 cn_list = [
         'i.duan.red',
         'l.qq.com'
         ]
+cn_list += gen_list('cn')
 
-genpac(9001, name='cn', file='cn', custom_list=cn_list)
+gen_pac('SOCKS5 127.0.0.1:1080; DIRECT', cn_list, 'cn')
