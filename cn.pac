@@ -1,5 +1,7 @@
-var proxy = 'SOCKS5 127.0.0.1:9001; DIRECT';
-var rules = [
+var rule = 'SOCKS5 127.0.0.1:1080; DIRECT';
+var domain_list = [
+	'i.duan.red',
+	'l.qq.com',
 	'00cdn.com',
 	'0123456789.com',
 	'0379home.com',
@@ -1793,7 +1795,6 @@ var rules = [
 	'hxsd.com',
 	'hxzq.cn',
 	'hytung.cn',
-	'i.duan.red',
 	'i360mall.com',
 	'i3839.com',
 	'i618.com.cn',
@@ -2239,7 +2240,6 @@ var rules = [
 	'kuyiso.com',
 	'kwaizt.com',
 	'kysec.cn',
-	'l.qq.com',
 	'lady8844.com',
 	'lagou.com',
 	'laiwang.com',
@@ -3893,7 +3893,7 @@ var rules = [
 ]
 
 function FindProxyForURL(url, host) {
-    if (rules.includes(host.match(/\.(.+)/)[1]) || rules.includes(host)) {
-        return proxy;
+    if (domain_list.includes(host.match(/\.(.+)/)[1]) || domain_list.includes(host)) {
+        return rule;
     }
 }

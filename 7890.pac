@@ -1,5 +1,5 @@
-var proxy = 'SOCKS5 127.0.0.1:7890; DIRECT';
-var rules = [
+var rule = 'SOCKS5 127.0.0.1:7890';
+var domain_list = [
 	'01.org',
 	'02weqj32.com',
 	'04647.club',
@@ -19175,7 +19175,7 @@ var rules = [
 ]
 
 function FindProxyForURL(url, host) {
-    if (rules.includes(host.match(/\.(.+)/)[1]) || rules.includes(host)) {
-        return proxy;
+    if (domain_list.includes(host.match(/\.(.+)/)[1]) || domain_list.includes(host)) {
+        return rule;
     }
 }
