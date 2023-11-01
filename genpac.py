@@ -30,7 +30,7 @@ var domain_list = [
 foreign_list = gen_list('geolocation-!cn')
 
 gen_pac('SOCKS5 127.0.0.1:7890', foreign_list, 7890)
-gen_pac('SOCKS5 127.0.0.1:9001; SOCKS5 192.168.50.10:9001; SOCKS5 192.168.50.10:9002; SOCKS5 192.168.50.10:9003; SOCKS5 192.168.50.10:9004', foreign_list, 9001)
+gen_pac('SOCKS5 127.0.0.1:9001; SOCKS5 192.168.50.10:9001; SOCKS5 192.168.50.10:9002; SOCKS5 192.168.50.10:9003; SOCKS5 192.168.50.10:9004; SOCKS5 192.168.50.10:9005', foreign_list, 9001)
 
 cn_list = [
         'i.duan.red',
