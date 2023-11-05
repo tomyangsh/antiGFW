@@ -557,6 +557,7 @@ var domain_list = [
 	'bilicdn5.com',
 	'bilicomics.com',
 	'biligo.com',
+	'biliimg.com',
 	'bilivideo.cn',
 	'bilivideo.com',
 	'bilivideo.net',
