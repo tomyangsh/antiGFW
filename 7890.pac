@@ -4161,8 +4161,6 @@ var domain_list = [
 	'cnbc.com',
 	'cnbcfm.com',
 	'cnbcfm.com',
-	'cnbeta.com',
-	'cnbetacdn.com',
 	'cncrivals.com',
 	'cnet.com',
 	'cnivogue.com.au',
