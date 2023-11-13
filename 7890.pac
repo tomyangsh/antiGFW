@@ -15092,6 +15092,7 @@ var domain_list = [
 	'sing68.com',
 	'singlelogin.app',
 	'singlelogin.me',
+	'singlelogin.re',
 	'singlelogin.site',
 	'singpao.com.hk',
 	'singtao.com',
