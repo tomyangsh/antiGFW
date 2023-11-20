@@ -10094,6 +10094,8 @@ var domain_list = [
 	'laracasts.com',
 	'largecamtube.com',
 	'largeporntube.com',
+	'last.fm',
+	'lastfm.freetls.fastly.net',
 	'lasvegasbmw.com',
 	'latampartneruniversity.com',
 	'latamvmwareforum.com',
