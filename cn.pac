@@ -2898,6 +2898,7 @@ var domain_list = [
 	'sao.cn',
 	'saolife.com',
 	'saraba1st.com',
+	'saxyit.com',
 	'sbsjk.com',
 	'sc96655.com',
 	'scdng.com',
