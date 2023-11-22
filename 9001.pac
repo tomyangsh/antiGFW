@@ -14533,6 +14533,7 @@ var domain_list = [
 	'savitahd.net',
 	'savvyshopper.net.au',
 	'saynow.com',
+	'sb-cd.com',
 	'sb-mobile.jp',
 	'sb-telecom.net',
 	'sb.sb',
