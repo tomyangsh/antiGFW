@@ -1,5 +1,6 @@
 var rule = 'SOCKS5 127.0.0.1:9001; SOCKS5 192.168.50.10:9001; SOCKS5 192.168.50.10:9002; SOCKS5 192.168.50.10:9003; SOCKS5 192.168.50.10:9004; SOCKS5 192.168.50.10:9005';
 var domain_list = [
+	'fsm.name',
 	'01.org',
 	'02weqj32.com',
 	'04647.club',
