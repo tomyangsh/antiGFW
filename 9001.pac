@@ -2739,6 +2739,7 @@ var domain_list = [
 	'blizzard.nefficient.co.kr',
 	'blizzardgearstore.com',
 	'blizzcon-a.akamaihd.net',
+	'blob.core.windows.net',
 	'blockfrost.io',
 	'blog.descargasgay.com',
 	'blogblog.com',
