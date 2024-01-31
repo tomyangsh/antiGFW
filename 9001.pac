@@ -12363,6 +12363,7 @@ var domain_list = [
 	'nivodi.tv',
 	'nivodz.com',
 	'nixos.org',
+	'nixos.org',
 	'niziero.info',
 	'njav.tv',
 	'nke6.com',
