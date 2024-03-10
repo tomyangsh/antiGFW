@@ -4054,6 +4054,7 @@ var domain_list = [
 	'volctraffic.com',
 	'volctranscdn.com',
 	'volcvideo.com',
+	'volcvideos.com',
 	'volcvms.com',
 	'volcvod.com',
 	'volcwaf.com',
