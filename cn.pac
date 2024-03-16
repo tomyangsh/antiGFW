@@ -4297,7 +4297,6 @@ var domain_list = [
 	'xzking.com',
 	'y43f6.cn',
 	'yahui.cc',
-	'yamibo.com',
 	'yangkeduo.com',
 	'yaolan.com',
 	'yaoyl.com',
