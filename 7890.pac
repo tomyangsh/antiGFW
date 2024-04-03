@@ -5805,6 +5805,7 @@ var domain_list = [
 	'episodic.com',
 	'epoch.cloud',
 	'epoch.org.il',
+	'epochbase.com',
 	'epochbuy.com',
 	'epochcar.com',
 	'epochhk.com',
