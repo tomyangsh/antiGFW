@@ -12471,6 +12471,7 @@ var domain_list = [
 	'netflix.com',
 	'netflix.com.edgesuite.net',
 	'netflix.net',
+	'netflixdnstest0.com',
 	'netflixdnstest1.com',
 	'netflixdnstest10.com',
 	'netflixdnstest2.com',
