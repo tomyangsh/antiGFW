@@ -2586,6 +2586,7 @@ var domain_list = [
 	'ks-cdn.com',
 	'ks-cdn1.com',
 	'ksapisrv.com',
+	'kscord.com',
 	'kshbank.cn',
 	'ksmobile.com',
 	'ksord.com',
